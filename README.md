@@ -6,6 +6,10 @@ A starter list of job boards and websites for nomadic developers to look for fre
 
 Currently there are over 60 sites with remote job listings! Many of them have RSS feeds available as well.
 
+I've also written a blog post detailing a strategy for how to use this list, especiallly if you're a beginning remote worker or freelance developer:
+
+- [Resources and strategies for remote workers and freelancers](https://george.mand.is/2017/10/resources-and-strategies-for-remote-workers/)
+
 Created and curated by [George Mandis](https://george.mand.is).
 
 ## Pull Requests
