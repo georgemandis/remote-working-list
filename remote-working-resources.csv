@@ -4,12 +4,12 @@ Authentic Jobs,https://authenticjobs.com/,https://authenticjobs.com/rss/custom.p
 Behance,https://www.behance.net/joblist,,No RSS feed but you can subscribe to email
 CareerBuilder,https://www.careerbuilder.com/browse,,
 Core Intuition Jobs,http://jobs.coreint.org/,http://jobs.coreint.org/rss.xml,For iOS and Mac Cocoa Developers
-Coroflot,http://www.coroflot.com/design-jobs,http://feeds.feedburner.com/coroflot/AllJobs,Presented as "Design Jobs" but there are development/technical positions within this category
+Coroflot,http://www.coroflot.com/design-jobs,http://feeds.feedburner.com/coroflot/AllJobs,Presented as Design Jobs but there are development/technical positions within this category
 Craigs List,https://craigslist.org/search/web,https://craigslist.org/search/web?format=rss,Exact URL will depend on city/location you want to search within
 Crunchboard Job Board,https://www.crunchboard.com/,https://www.crunchboard.com/feed.xml,
 CyberCoders,https://www.cybercoders.com/browse-jobs/,,No RSS feed but can sign up for emails
 Dice,https://www.dice.com/jobs,,
-Dribbble,https://dribbble.com/jobs?anywhere=true&location=Anywhere,https://dribbble.com/jobs.rss?anywhere=true&location=Anywhere,Mostly "design" and UI/UX jobs but also some development
+Dribbble,https://dribbble.com/jobs?anywhere=true&location=Anywhere,https://dribbble.com/jobs.rss?anywhere=true&location=Anywhere,Mostly design and UI/UX jobs but also some development
 Drupal Jobs,https://jobs.drupal.org/,https://jobs.drupal.org/filtered-jobs/%25/%25/%25/%25/%25/feed,
 Ember Job Board,http://jobs.emberjs.com/,http://jobs.emberjs.com/jobs.atom,Ember.js jobs
 EuropeRemotely,http://europeremotely.com/,,No RSS feed but they have a Twitter account (@europeremotely)
@@ -20,7 +20,7 @@ Flex Jobs,https://www.flexjobs.com/jobs,,No RSS feed for job postings
 Freelancer,https://www.freelancer.com/jobs/1/,https://www.freelancer.com/rss.xml,
 Functional Jobs,https://functionaljobs.com/,https://functionaljobs.com/jobs/?format=rss,Functional programming jobs
 GIIN,https://jobs.thegiin.org/,,Global Impact Investing Network
-GitHub,http://jobs.github.com/,https://jobs.github.com/positions.atom?location=Remote,You can filter more specifically by passing the "description" paramter like this: https://jobs.github.com/positions.atom?description=JavaScript&location=Remote
+GitHub,http://jobs.github.com/,https://jobs.github.com/positions.atom?location=Remote,You can filter more specifically by passing the description paramter like this: https://jobs.github.com/positions.atom?description=JavaScript&location=Remote
 Glassdoor,https://www.glassdoor.com/Job/jobs.htm,,No RSS feeds but you can create job alerts with an account
 Golang / Go Jobs,https://www.golangprojects.com/,https://www.golangprojects.com/rss.xml,Jobs for Goland/Go developers
 GrowthHackers,https://growthhackers.com/jobs/,,
@@ -29,7 +29,7 @@ Hacker News Jobs,https://news.ycombinator.com/jobs,,No RSS feed for jobs but the
 Hubstaff,https://talent.hubstaff.com/search/jobs,,
 Idealist,https://www.idealist.org/en/?radius=160000&sort=relevance&type=ALL,,No RSS feed but there is an email subscription available
 Inbound,https://inbound.org/jobs/remote-marketing-jobs,,
-Indeed,http://www.indeed.com/jobs?q=web+development&amp;l=remote,http://rss.indeed.com/rss,You can filter more specifically by passing the "q" parameter like this: http://rss.indeed.com/rss?q=web+development
+Indeed,http://www.indeed.com/jobs?q=web+development&amp;l=remote,http://rss.indeed.com/rss,You can filter more specifically by passing the q parameter like this: http://rss.indeed.com/rss?q=web+development
 Jobbatical,https://jobbatical.com/jobs,https://feeds.feedburner.com/jobbatical-jobs,
 Jobspresso,https://jobspresso.co,https://jobspresso.co/feed/?post_type=job_listing,
 Krop,https://www.krop.com/,http://www.krop.com/services/feeds/rss/latest/,
