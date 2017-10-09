@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Remot Work Jobs</title>
+    </head>
+<body>
+    <outline text="Remote Work Jobs" title="Remote Work Jobs">            
+        <outline htmlUrl="https://authenticjobs.com/" title="Authentic Jobs" xmlUrl="https://authenticjobs.com/rss/custom.php?remote=1" type="rss" text="Authentic Jobs"/>
+        <outline htmlUrl="http://jobs.coreint.org/" title="Core Intuition Jobs" xmlUrl="http://jobs.coreint.org/rss.xml" type="rss" text="Core Intuition Jobs"/>
+        <outline htmlUrl="http://www.coroflot.com/design-jobs" title="Coroflot" xmlUrl="http://feeds.feedburner.com/coroflot/AllJobs" type="rss" text="Coroflot"/>
+        <outline htmlUrl="https://craigslist.org/search/web" title="Craigs List" xmlUrl="https://craigslist.org/search/web?format=rss" type="rss" text="Craigs List"/>
+        <outline htmlUrl="https://www.crunchboard.com/" title="Crunchboard Job Board" xmlUrl="https://www.crunchboard.com/feed.xml" type="rss" text="Crunchboard Job Board"/>
+        <outline htmlUrl="https://dribbble.com/jobs?anywhere=true&location=Anywhere" title="Dribbble" xmlUrl="https://dribbble.com/jobs.rss?anywhere=true&location=Anywhere" type="rss" text="Dribbble"/>
+        <outline htmlUrl="https://jobs.drupal.org/" title="Drupal Jobs" xmlUrl="https://jobs.drupal.org/filtered-jobs/%25/%25/%25/%25/%25/feed" type="rss" text="Drupal Jobs"/>
+        <outline htmlUrl="http://jobs.emberjs.com/" title="Ember Job Board" xmlUrl="http://jobs.emberjs.com/jobs.atom" type="rss" text="Ember Job Board"/>
+        <outline htmlUrl="http://jobs.elixirdose.com/" title="Exlixir Jobs" xmlUrl="http://jobs.elixirdose.com/feed" type="rss" text="Exlixir Jobs"/>
+        <outline htmlUrl="https://www.fossjobs.net/" title="FOSS Jobs" xmlUrl="https://www.fossjobs.net/rss/all/" type="rss" text="FOSS Jobs"/>
+        <outline htmlUrl="https://www.freelancer.com/jobs/1/" title="Freelancer" xmlUrl="https://www.freelancer.com/rss.xml" type="rss" text="Freelancer"/>
+        <outline htmlUrl="https://functionaljobs.com/" title="Functional Jobs" xmlUrl="https://functionaljobs.com/jobs/?format=rss" type="rss" text="Functional Jobs"/>
+        <outline htmlUrl="http://jobs.github.com/" title="GitHub" xmlUrl="https://jobs.github.com/positions.atom?location=Remote" type="rss" text="GitHub"/>
+        <outline htmlUrl="https://www.golangprojects.com/" title="Golang / Go Jobs" xmlUrl="https://www.golangprojects.com/rss.xml" type="rss" text="Golang / Go Jobs"/>
+        <outline htmlUrl="https://www.guru.com/d/jobs/" title="Guru" xmlUrl="https://www.guru.com/rss/jobs/" type="rss" text="Guru"/>
+        <outline htmlUrl="http://www.indeed.com/jobs?q=web+development&amp;l=remote" title="Indeed" xmlUrl="http://rss.indeed.com/rss" type="rss" text="Indeed"/>
+        <outline htmlUrl="https://jobbatical.com/jobs" title="Jobbatical" xmlUrl="https://feeds.feedburner.com/jobbatical-jobs" type="rss" text="Jobbatical"/>
+        <outline htmlUrl="https://jobspresso.co" title="Jobspresso" xmlUrl="https://jobspresso.co/feed/?post_type=job_listing" type="rss" text="Jobspresso"/>
+        <outline htmlUrl="https://www.krop.com/" title="Krop" xmlUrl="http://www.krop.com/services/feeds/rss/latest/" type="rss" text="Krop"/>
+        <outline htmlUrl="https://landing.jobs/jobs?remote=true" title="Landing.jobs" xmlUrl="https://landing.jobs/feed?remote=true" type="rss" text="Landing.jobs"/>
+        <outline htmlUrl="http://jobs.mashable.com/jobs/search/results" title="Mashable Jobs" xmlUrl="http://jobs.mashable.com/jobs/search/results?format=rss" type="rss" text="Mashable Jobs"/>
+        <outline htmlUrl="https://www.nten.org/jobs/" title="NTEN" xmlUrl="https://www.nten.org/feed/?post_type=job" type="rss" text="NTEN"/>
+        <outline htmlUrl="https://remoteok.io/remote-companies" title="Remote OK" xmlUrl="https://remoteok.io/remote-jobs.rss" type="rss" text="Remote OK"/>
+        <outline htmlUrl="https://remoteworkhub.com/remote-jobs/" title="Remote Work Hub" xmlUrl="https://remoteworkhub.com/feed/?post_type=job" type="rss" text="Remote Work Hub"/>
+        <outline htmlUrl="https://remote.co/remote-jobs/" title="Remote.co" xmlUrl="https://remote.co/feed/?post_type=job_listing" type="rss" text="Remote.co"/>
+        <outline htmlUrl="https://remotive.io/find-a-job" title="Remotive" xmlUrl="https://remotive.io/feed/?post_type=job_listing" type="rss" text="Remotive"/>
+        <outline htmlUrl="https://jobs.smashingmagazine.com/freelance/all" title="Smashing Jobs (Freelance)" xmlUrl="http://jobs.smashingmagazine.com/rss/freelance/all" type="rss" text="Smashing Jobs (Freelance)"/>
+        <outline htmlUrl="https://stackoverflow.com/jobs/remote-developer-jobs" title="Stack Overflow (remote)" xmlUrl="https://stackoverflow.com/jobs/feed?r=True" type="rss" text="Stack Overflow (remote)"/>
+        <outline htmlUrl="https://www.startupers.com/" title="StartUpers" xmlUrl="http://feeds.feedburner.com/startup-jobs" type="rss" text="StartUpers"/>
+        <outline htmlUrl="http://www.remoteworking.co/" title="The Remote Working Company" xmlUrl="http://www.remoteworking.co/feed/" type="rss" text="The Remote Working Company"/>
+        <outline htmlUrl="https://www.wfh.io" title="WHF.io" xmlUrl="https://www.wfh.io/jobs.atom" type="rss" text="WHF.io"/>
+        <outline htmlUrl="http://www.wphired.com/" title="WP Hired" xmlUrl="http://www.wphired.com/jobs/feed/" type="rss" text="WP Hired"/>
+        <outline htmlUrl="https://weworkremotely.com/" title="We Work Remotely" xmlUrl="https://weworkremotely.com/jobs.rss" type="rss" text="We Work Remotely"/>
+        <outline htmlUrl="https://jobs.wordpress.net/" title="WordPress Jobs" xmlUrl="https://jobs.wordpress.net/feed/" type="rss" text="WordPress Jobs"/>
+        <outline htmlUrl="http://workrem.com/" title="Work Remotely" xmlUrl="http://workrem.com/feed/?post_type=job_listing" type="rss" text="Work Remotely"/>
+        <outline htmlUrl="https://www.workingnomads.co/jobs" title="Working Nomads" xmlUrl="https://www.workingnomads.co/api/exposed_jobs/" type="rss" text="Working Nomads"/>
+    </outline>
+</body>
+</opml>
