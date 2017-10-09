@@ -4,7 +4,8 @@
   "description": "List of job search websites for nomadic workers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "opml:build": "node index.js opml > remote-working-resources.opml"
   },
   "repository": {
     "type": "git",
