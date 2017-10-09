@@ -1,0 +1,27 @@
+{
+  "name": "remote-working-list",
+  "version": "1.0.0",
+  "description": "List of job search websites for nomadic workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgemandis/remote-working-list.git"
+  },
+  "keywords": [
+    "travel",
+    "job",
+    "list"
+  ],
+  "author": "George Mandis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgemandis/remote-working-list/issues"
+  },
+  "homepage": "https://github.com/georgemandis/remote-working-list#readme",
+  "dependencies": {
+    "csv-parse": "^1.2.4"
+  }
+}
