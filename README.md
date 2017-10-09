@@ -1,16 +1,22 @@
 # Remote Work List for Developers
 
-A starter list of job boards and websites for nomadic developers to look for freelance work. You can find the list in the CSV file:
+A starter list of job boards and websites for nomadic developers to look for freelance work. Currently there are over 60 sites with remote job listings! Many of them have RSS feeds available as well.
+
+The core list is maintained in a CSV file here:
 
 [remote-working-resources.csv](https://github.com/georgemandis/remote-working-list/blob/master/remote-working-resources.csv)
 
-Currently there are over 60 sites with remote job listings! Many of them have RSS feeds available as well.
+An OPML file is available to import into your feed reader of choice! It is part of the repository and can be found here:
 
-I've also written a blog post detailing a strategy for how to use this list, especiallly if you're a beginning remote worker or freelance developer:
+[remote-working-resources.opml](https://github.com/georgemandis/remote-working-list/blob/master/remote-working-resources.opml)
 
-- [Resources and strategies for remote workers and freelancers](https://george.mand.is/2017/10/resources-and-strategies-for-remote-workers/)
+There is also an npm script that will build the OPML file using data from the CSV file, omitting listings that do not have an RSS or JSON feed:
 
-Created and curated by [George Mandis](https://george.mand.is).
+`npm run build:opml`
+
+The script is a little pointless at the moment given the OPML file is being committed alongside it, but hints at some possible futuer uses and directions for this product.
+
+— Created and curated by [George Mandis](https://george.mand.is).
 
 ## Pull Requests
 
@@ -27,6 +33,6 @@ You're more than welcome to make pull requests! Each listing should have:
 Here are some future changes I'd love to see and discuss:
 
 - Add taxonomies for better organization. For example, the WordPress-specific sites might not be relevant to everyone
-- Provide a complimentary OPML file that can be imported into a feed reader, or perhaps a build script that would generate one based on the CSV
 - Organize the job sites into specific categories
 - Provide a separate list (?) for job networks that require sign-up to join or where freelancers and remote-workers create profiles to advertise themselves to organizations looking to hire.
+- Extend the npm scripts to allow return subsets of CSV lists — rss feeds only, no feeds, queries, other option? Perhaps even pull recent job posts from the feed and return them?
