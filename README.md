@@ -35,4 +35,4 @@ Here are some future changes I'd love to see and discuss:
 - Add taxonomies for better organization. For example, the WordPress-specific sites might not be relevant to everyone
 - Organize the job sites into specific categories
 - Provide a separate list (?) for job networks that require sign-up to join or where freelancers and remote-workers create profiles to advertise themselves to organizations looking to hire.
-- Extend the npm scripts to allow return subsets of CSV lists — rss feeds only, no feeds, queries, other option? Perhaps even pull recent job posts from the feed and return them?
+- Extend the npm scripts to allow return subsets of CSV lists — RSS feeds only, no feeds, queries, other option? Perhaps even pull recent job posts from the feed and return them?
