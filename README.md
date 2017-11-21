@@ -12,7 +12,7 @@ An OPML file is available to import into your feed reader of choice! It is part 
 
 There is also an npm script that will build the OPML file using data from the CSV file, omitting listings that do not have an RSS or JSON feed:
 
-`npm run build:opml`
+`npm run opml:build`
 
 The script is a little pointless at the moment given the OPML file is being committed alongside it, but hints at some possible futuer uses and directions for this product.
 
