@@ -67,3 +67,4 @@ WordPress Jobs,https://jobs.wordpress.net/,https://jobs.wordpress.net/feed/,You 
 Work Remotely,http://workrem.com/,http://workrem.com/feed/?post_type=job_listing,If you add /feed to the end of any job category URL you will get an RSS feed for that specific category.
 Working Nomads,https://www.workingnomads.co/jobs,https://www.workingnomads.co/api/exposed_jobs/,The feed is a JSON feed
 Working Not Working,https://workingnotworking.com/unjobboard,,
+Python Jobs,https://www.python.org/jobs/location/telecommute/,https://www.python.org/jobs/feed/rss/,Unclear if the RSS feed is filterable to only show remote work
