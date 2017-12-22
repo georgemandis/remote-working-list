@@ -70,3 +70,6 @@ Working Not Working,https://workingnotworking.com/unjobboard,,
 Python Jobs,https://www.python.org/jobs/location/telecommute/,https://www.python.org/jobs/feed/rss/,Unclear if the RSS feed is filterable to only show remote work
 Front-End Developer Jobs,http://frontenddeveloperjob.com,,No RSS feed
 Ruby Now,https://jobs.rubynow.com,,No RSS feed
+Reddit (/r/remotejs),https://www.reddit.com/r/remotejs/,https://www.reddit.com/r/remotejs/.rss
+Reddit (/r/remotephp),https://www.reddit.com/r/remotephp/,https://www.reddit.com/r/remotephp/.rss
+Reddit (/r/remotepython),https://www.reddit.com/r/remotepython/,https://www.reddit.com/r/remotepython/.rss
