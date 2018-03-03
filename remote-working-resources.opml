@@ -30,6 +30,7 @@
 <outline htmlUrl="https://jobspresso.co" title="Jobspresso" xmlUrl="https://jobspresso.co/feed/?post_type=job_listing" type="rss" text="Jobspresso"/>
 <outline htmlUrl="https://www.krop.com/" title="Krop" xmlUrl="http://www.krop.com/services/feeds/rss/latest/" type="rss" text="Krop"/>
 <outline htmlUrl="https://landing.jobs/jobs?remote=true" title="Landing.jobs" xmlUrl="https://landing.jobs/feed?remote=true" type="rss" text="Landing.jobs"/>
+<outline htmlUrl="https://larajobs.com/?location=&remote=1" title="Lara Jobs" xmlUrl="https://larajobs.com/feed" type="rss" text="Lara Jobs"/>
 <outline htmlUrl="http://jobs.mashable.com/jobs/search/results" title="Mashable Jobs" xmlUrl="http://jobs.mashable.com/jobs/search/results?format=rss" type="rss" text="Mashable Jobs"/>
 <outline htmlUrl="https://www.nten.org/jobs/" title="NTEN" xmlUrl="https://www.nten.org/feed/?post_type=job" type="rss" text="NTEN"/>
 <outline htmlUrl="https://www.python.org/jobs/location/telecommute/" title="Python Jobs" xmlUrl="https://www.python.org/jobs/feed/rss/" type="rss" text="Python Jobs"/>

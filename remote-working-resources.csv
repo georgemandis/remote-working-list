@@ -42,6 +42,7 @@ Jobbatical,https://jobbatical.com/jobs,https://feeds.feedburner.com/jobbatical-j
 Jobspresso,https://jobspresso.co,https://jobspresso.co/feed/?post_type=job_listing,
 Krop,https://www.krop.com/,http://www.krop.com/services/feeds/rss/latest/,
 Landing.jobs,https://landing.jobs/jobs?remote=true,https://landing.jobs/feed?remote=true,Other parameters can be passed to further filter job results
+Lara Jobs,https://larajobs.com/?location=&remote=1,https://larajobs.com/feed,
 LinkedIn,https://www.linkedin.com/jobs/,,No RSS feeds but you can create job alerts with an account.You must provide a search term to see job listings. Most (all?) jobs require a LinkedIn account to apply
 LocalSolo,https://localsolo.com/jobs,,
 Mashable Jobs,http://jobs.mashable.com/jobs/search/results,http://jobs.mashable.com/jobs/search/results?format=rss,You can filter more specifically by passing parameters but it's easiest to filter the results to your liking on the page and copy the update RSS feed link
