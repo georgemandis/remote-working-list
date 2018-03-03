@@ -12,6 +12,7 @@
 <outline htmlUrl="http://www.coroflot.com/design-jobs" title="Coroflot" xmlUrl="http://feeds.feedburner.com/coroflot/AllJobs" type="rss" text="Coroflot"/>
 <outline htmlUrl="https://craigslist.org/search/web" title="Craigs List" xmlUrl="https://craigslist.org/search/web?format=rss" type="rss" text="Craigs List"/>
 <outline htmlUrl="https://www.crunchboard.com/" title="Crunchboard Job Board" xmlUrl="https://www.crunchboard.com/feed.xml" type="rss" text="Crunchboard Job Board"/>
+<outline htmlUrl="https://cryptojobslist.com/remote" title="Crypto Jobs List" xmlUrl="https://cryptojobslist.com/remote" type="rss" text="Crypto Jobs List"/>
 <outline htmlUrl="https://dribbble.com/jobs?anywhere=true&location=Anywhere" title="Dribbble" xmlUrl="https://dribbble.com/jobs.rss?anywhere=true&location=Anywhere" type="rss" text="Dribbble"/>
 <outline htmlUrl="https://jobs.drupal.org/" title="Drupal Jobs" xmlUrl="https://jobs.drupal.org/filtered-jobs/%25/%25/%25/%25/%25/feed" type="rss" text="Drupal Jobs"/>
 <outline htmlUrl="http://jobs.emberjs.com/" title="Ember Job Board" xmlUrl="http://jobs.emberjs.com/jobs.atom" type="rss" text="Ember Job Board"/>
@@ -50,7 +51,6 @@
 <outline htmlUrl="https://jobs.wordpress.net/" title="WordPress Jobs" xmlUrl="https://jobs.wordpress.net/feed/" type="rss" text="WordPress Jobs"/>
 <outline htmlUrl="http://workrem.com/" title="Work Remotely" xmlUrl="http://workrem.com/feed/?post_type=job_listing" type="rss" text="Work Remotely"/>
 <outline htmlUrl="https://www.workingnomads.co/jobs" title="Working Nomads" xmlUrl="https://www.workingnomads.co/api/exposed_jobs/" type="rss" text="Working Nomads"/>
-<outline htmlUrl="https://cryptojobslist.com/remote" title="Crypto Jobs List" xmlUrl="https://cryptojobslist.com/remote" type="rss" text="Crypto Jobs List"/>
                                     </outline>
                                 </body>
                                 </opml>
