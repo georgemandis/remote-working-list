@@ -46,7 +46,9 @@ Lara Jobs,https://larajobs.com/?location=&remote=1,https://larajobs.com/feed,
 LinkedIn,https://www.linkedin.com/jobs/,,No RSS feeds but you can create job alerts with an account.You must provide a search term to see job listings. Most (all?) jobs require a LinkedIn account to apply
 LocalSolo,https://localsolo.com/jobs,,
 Mashable Jobs,http://jobs.mashable.com/jobs/search/results,http://jobs.mashable.com/jobs/search/results?format=rss,You can filter more specifically by passing parameters but it's easiest to filter the results to your liking on the page and copy the update RSS feed link
+NODESK,https://nodesk.co/remote-jobs/anywhere/,,On Twitter (@nodeskco)
 NTEN,https://www.nten.org/jobs/,https://www.nten.org/feed/?post_type=job,Nonprofit Technology Network
+No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,https://nofluffjobs.com/?criteria=remote,
 Panda Jobs,http://panda.jobs/?q=MYSwLgngJATgpgWwPZjgLlJNAlRL1AAA,,
 Power to Fly,https://powertofly.com/jobs/page/1/?skills=&country=&location_type=Remote&submit=Filter,,
 PowerToFly,https://powertofly.com/jobs/?submit=Filter,,No RSS feed. Focused on working with companies emphasizing diversity in hiring. Women helping women elevate their careers
@@ -83,4 +85,3 @@ WordPress Jobs,https://jobs.wordpress.net/,https://jobs.wordpress.net/feed/,You 
 Work Remotely,http://workrem.com/,http://workrem.com/feed/?post_type=job_listing,If you add /feed to the end of any job category URL you will get an RSS feed for that specific category.
 Working Nomads,https://www.workingnomads.co/jobs,https://www.workingnomads.co/api/exposed_jobs/,The feed is a JSON feed
 Working Not Working,https://workingnotworking.com/unjobboard,,
-No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,https://nofluffjobs.com/?criteria=remote,
