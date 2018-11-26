@@ -1,88 +1,177 @@
 Title,URL,Feed URL,Notes
+Adafruit Job Boards,https://jobs.adafruit.com/?query=&amp;location=&amp;type%5B%5D=7,https://jobs.adafruit.com/wpjobboard/xml/rss/?query=&amp;location=&amp;type%5B%5D=7,
+AngelList,https://angel.co/jobs,,
 AngelList,https://angel.co/jobs,,
 Angular Jobs,https://angularjobs.com/search/?query=remote&amp;location=us,https://angularjobs.com/feed,No RSS feed for jobs available
+Angular Jobs,https://angularjobs.com/search/?query=remote&amp;location=us,https://angularjobs.com/feed,No RSS feed for jobs available
+Authentic Jobs,https://authenticjobs.com/,https://authenticjobs.com/rss/custom.php?remote=1,Custom filters can be created for freelance/contract/remote and other parameters
 Authentic Jobs,https://authenticjobs.com/,https://authenticjobs.com/rss/custom.php?remote=1,Custom filters can be created for freelance/contract/remote and other parameters
 Behance,https://www.behance.net/joblist,,No RSS feed but you can subscribe to email
+Behance,https://www.behance.net/joblist,,No RSS feed but you can subscribe to email
+CareerBuilder,https://www.careerbuilder.com/browse,,
 CareerBuilder,https://www.careerbuilder.com/browse,,
 CodePen Job Listings,https://codepen.io/jobs,https://codepen.io/jobs/feed,
+CodePen Job Listings,https://codepen.io/jobs,https://codepen.io/jobs/feed,
+Core Intuition Jobs,http://jobs.coreint.org/,http://jobs.coreint.org/rss.xml,For iOS and Mac Cocoa Developers
 Core Intuition Jobs,http://jobs.coreint.org/,http://jobs.coreint.org/rss.xml,For iOS and Mac Cocoa Developers
 Coroflot,http://www.coroflot.com/design-jobs,http://feeds.feedburner.com/coroflot/AllJobs,Presented as Design Jobs but there are development/technical positions within this category
+Coroflot,http://www.coroflot.com/design-jobs,http://feeds.feedburner.com/coroflot/AllJobs,Presented as Design Jobs but there are development/technical positions within this category
+Craigs List,https://craigslist.org/search/web,https://craigslist.org/search/web?format=rss,Exact URL will depend on city/location you want to search within
 Craigs List,https://craigslist.org/search/web,https://craigslist.org/search/web?format=rss,Exact URL will depend on city/location you want to search within
 Crunchboard Job Board,https://www.crunchboard.com/,https://www.crunchboard.com/feed.xml,
+Crunchboard Job Board,https://www.crunchboard.com/,https://www.crunchboard.com/feed.xml,
+Crypto Jobs List,https://cryptojobslist.com/remote,https://cryptojobslist.com/remote,
 Crypto Jobs List,https://cryptojobslist.com/remote,https://cryptojobslist.com/remote,
 Cryptocurrency Jobs,https://cryptocurrencyjobs.co,,Also on Twitter (@jobsincrypto)
+Cryptocurrency Jobs,https://cryptocurrencyjobs.co,,Also on Twitter (@jobsincrypto)
+CyberCoders,https://www.cybercoders.com/browse-jobs/,,No RSS feed but can sign up for emails
 CyberCoders,https://www.cybercoders.com/browse-jobs/,,No RSS feed but can sign up for emails
 Dice,https://www.dice.com/jobs,,
+Dice,https://www.dice.com/jobs,,
+Dribbble,https://dribbble.com/jobs?anywhere=true&amp;location=Anywhere,https://dribbble.com/jobs.rss?anywhere=true&amp;location=Anywhere,Mostly design and UI/UX jobs but also some development
 Dribbble,https://dribbble.com/jobs?anywhere=true&amp;location=Anywhere,https://dribbble.com/jobs.rss?anywhere=true&amp;location=Anywhere,Mostly design and UI/UX jobs but also some development
 Drupal Jobs,https://jobs.drupal.org/,https://jobs.drupal.org/filtered-jobs/%25/%25/%25/%25/%25/feed,
+Drupal Jobs,https://jobs.drupal.org/,https://jobs.drupal.org/filtered-jobs/%25/%25/%25/%25/%25/feed,
+Ember Job Board,http://jobs.emberjs.com/,http://jobs.emberjs.com/jobs.atom,Ember.js jobs
 Ember Job Board,http://jobs.emberjs.com/,http://jobs.emberjs.com/jobs.atom,Ember.js jobs
 EuropeRemotely,http://europeremotely.com/,,No RSS feed but they have a Twitter account (@europeremotely)
+EuropeRemotely,http://europeremotely.com/,,No RSS feed but they have a Twitter account (@europeremotely)
+Exlixir Jobs,http://jobs.elixirdose.com/,http://jobs.elixirdose.com/feed,Jobs for the Elixir programming language
 Exlixir Jobs,http://jobs.elixirdose.com/,http://jobs.elixirdose.com/feed,Jobs for the Elixir programming language
 F6s,https://www.f6s.com/jobs/,,No RSS feed but you can create an account and receive notifications
-FOSS Jobs,https://www.fossjobs.net/,https://www.fossjobs.net/rss/all/,Jobs for FOSS and Open Hardware. A list of category-specific feeds can be found here: https://www.fossjobs.net/rss/
+F6s,https://www.f6s.com/jobs/,,No RSS feed but you can create an account and receive notifications
+Find Bacon,https://findbacon.com/jobs/remote,https://findbacon.com/rss/main,Also on Twitter (@findbacon)
 Find Bacon,https://findbacon.com/jobs/remote,https://findbacon.com/rss/main,Also on Twitter (@findbacon)
 Flex Jobs,https://www.flexjobs.com/jobs,,No RSS feed for job postings
+Flex Jobs,https://www.flexjobs.com/jobs,,No RSS feed for job postings
+FOSS Jobs,https://www.fossjobs.net/,https://www.fossjobs.net/rss/all/,Jobs for FOSS and Open Hardware. A list of category-specific feeds can be found here: https://www.fossjobs.net/rss/
+FOSS Jobs,https://www.fossjobs.net/,https://www.fossjobs.net/rss/all/,Jobs for FOSS and Open Hardware. A list of category-specific feeds can be found here: https://www.fossjobs.net/rss/
+Freelancer,https://www.freelancer.com/jobs/1/,https://www.freelancer.com/rss.xml,
 Freelancer,https://www.freelancer.com/jobs/1/,https://www.freelancer.com/rss.xml,
 Front-End Developer Jobs,http://frontenddeveloperjob.com,,No RSS feed
+Front-End Developer Jobs,http://frontenddeveloperjob.com,,No RSS feed
+Functional Jobs,https://functionaljobs.com/,https://functionaljobs.com/jobs/?format=rss,Functional programming jobs
 Functional Jobs,https://functionaljobs.com/,https://functionaljobs.com/jobs/?format=rss,Functional programming jobs
 GIIN,https://jobs.thegiin.org/,,Global Impact Investing Network
+GIIN,https://jobs.thegiin.org/,,Global Impact Investing Network
+GitHub,http://jobs.github.com/,https://jobs.github.com/positions.atom?location=Remote,You can filter more specifically by passing the description parameter like this: https://jobs.github.com/positions.atom?description=JavaScript&amp;location=Remote
 GitHub,http://jobs.github.com/,https://jobs.github.com/positions.atom?location=Remote,You can filter more specifically by passing the description parameter like this: https://jobs.github.com/positions.atom?description=JavaScript&amp;location=Remote
 Glassdoor,https://www.glassdoor.com/Job/jobs.htm,,No RSS feeds but you can create job alerts with an account
+Glassdoor,https://www.glassdoor.com/Job/jobs.htm,,No RSS feeds but you can create job alerts with an account
+Golang / Go Jobs,https://www.golangprojects.com/,https://www.golangprojects.com/rss.xml,Jobs for Goland/Go developers
 Golang / Go Jobs,https://www.golangprojects.com/,https://www.golangprojects.com/rss.xml,Jobs for Goland/Go developers
 GrowthHackers,https://growthhackers.com/jobs/,,
+GrowthHackers,https://growthhackers.com/jobs/,,
+Guru,https://www.guru.com/d/jobs/,https://www.guru.com/rss/jobs/,
 Guru,https://www.guru.com/d/jobs/,https://www.guru.com/rss/jobs/,
 Hacker News Jobs,https://news.ycombinator.com/jobs,,No RSS feed for jobs but there is an API which would theoretically allow you to build one: https://github.com/HackerNews/API
+Hacker News Jobs,https://news.ycombinator.com/jobs,,No RSS feed for jobs but there is an API which would theoretically allow you to build one: https://github.com/HackerNews/API
+HasJob,https://hasjob.co/?l=anywhere,https://hasjob.co/feed,The have an Anywhere option under the location filter. Feed not filterable. Also on Twitter (@hasjob)
 HasJob,https://hasjob.co/?l=anywhere,https://hasjob.co/feed,The have an Anywhere option under the location filter. Feed not filterable. Also on Twitter (@hasjob)
 HigherEd Jobs,https://www.higheredjobs.com/search/remote.cfm,,They have an Online/Remote Job section
+HigherEd Jobs,https://www.higheredjobs.com/search/remote.cfm,,They have an Online/Remote Job section
+Honestlance,https://www.honestlance.com,,
 Honestlance,https://www.honestlance.com,,
 Hubstaff,https://talent.hubstaff.com/search/jobs,,
+Hubstaff,https://talent.hubstaff.com/search/jobs,,
+Idealist,https://www.idealist.org/en/?radius=160000&amp;sort=relevance&amp;type=ALL,,No RSS feed but there is an email subscription available
 Idealist,https://www.idealist.org/en/?radius=160000&amp;sort=relevance&amp;type=ALL,,No RSS feed but there is an email subscription available
 Inbound,https://inbound.org/jobs/remote-marketing-jobs,,
+Inbound,https://inbound.org/jobs/remote-marketing-jobs,,
+Indeed,http://www.indeed.com/jobs?q=web+development&amp;l=remote,http://rss.indeed.com/rss,You can filter more specifically by passing the q parameter like this: http://rss.indeed.com/rss?q=web+development
 Indeed,http://www.indeed.com/jobs?q=web+development&amp;l=remote,http://rss.indeed.com/rss,You can filter more specifically by passing the q parameter like this: http://rss.indeed.com/rss?q=web+development
 Jobbatical,https://jobbatical.com/jobs,https://feeds.feedburner.com/jobbatical-jobs,
+Jobbatical,https://jobbatical.com/jobs,https://feeds.feedburner.com/jobbatical-jobs,
+Jobspresso,https://jobspresso.co,https://jobspresso.co/feed/?post_type=job_listing,
 Jobspresso,https://jobspresso.co,https://jobspresso.co/feed/?post_type=job_listing,
 Krop,https://www.krop.com/,http://www.krop.com/services/feeds/rss/latest/,
+Krop,https://www.krop.com/,http://www.krop.com/services/feeds/rss/latest/,
+Landing.jobs,https://landing.jobs/jobs?remote=true,https://landing.jobs/feed?remote=true,Other parameters can be passed to further filter job results
 Landing.jobs,https://landing.jobs/jobs?remote=true,https://landing.jobs/feed?remote=true,Other parameters can be passed to further filter job results
 Lara Jobs,https://larajobs.com/?location=&amp;remote=1,https://larajobs.com/feed,
+Lara Jobs,https://larajobs.com/?location=&amp;remote=1,https://larajobs.com/feed,
+LinkedIn,https://www.linkedin.com/jobs/,,No RSS feeds but you can create job alerts with an account.You must provide a search term to see job listings. Most (all?) jobs require a LinkedIn account to apply
 LinkedIn,https://www.linkedin.com/jobs/,,No RSS feeds but you can create job alerts with an account.You must provide a search term to see job listings. Most (all?) jobs require a LinkedIn account to apply
 LocalSolo,https://localsolo.com/jobs,,
+LocalSolo,https://localsolo.com/jobs,,
 Mashable Jobs,http://jobs.mashable.com/jobs/search/results,http://jobs.mashable.com/jobs/search/results?format=rss,You can filter more specifically by passing parameters but it's easiest to filter the results to your liking on the page and copy the update RSS feed link
+Mashable Jobs,http://jobs.mashable.com/jobs/search/results,http://jobs.mashable.com/jobs/search/results?format=rss,You can filter more specifically by passing parameters but it's easiest to filter the results to your liking on the page and copy the update RSS feed link
+No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,https://nofluffjobs.com/?criteria=remote,
+No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,https://nofluffjobs.com/?criteria=remote,
+NODESK,https://nodesk.co/remote-jobs/anywhere/,,On Twitter (@nodeskco)
 NODESK,https://nodesk.co/remote-jobs/anywhere/,,On Twitter (@nodeskco)
 NTEN,https://www.nten.org/jobs/,https://www.nten.org/feed/?post_type=job,Nonprofit Technology Network
-No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,https://nofluffjobs.com/?criteria=remote,
+NTEN,https://www.nten.org/jobs/,https://www.nten.org/feed/?post_type=job,Nonprofit Technology Network
+Panda Jobs,http://panda.jobs/?q=MYSwLgngJATgpgWwPZjgLlJNAlRL1AAA,,
 Panda Jobs,http://panda.jobs/?q=MYSwLgngJATgpgWwPZjgLlJNAlRL1AAA,,
 Power to Fly,https://powertofly.com/jobs/page/1/?skills=&amp;country=&amp;location_type=Remote&amp;submit=Filter,,
+Power to Fly,https://powertofly.com/jobs/page/1/?skills=&amp;country=&amp;location_type=Remote&amp;submit=Filter,,
+PowerToFly,https://powertofly.com/jobs/?submit=Filter,,No RSS feed. Focused on working with companies emphasizing diversity in hiring. Women helping women elevate their careers
 PowerToFly,https://powertofly.com/jobs/?submit=Filter,,No RSS feed. Focused on working with companies emphasizing diversity in hiring. Women helping women elevate their careers
 Product Hunt Jobs,https://www.producthunt.com/jobs?remote_ok=true,,No RSS feed but there is a GraphQL endpoint that might be leveraged to create your own: https://www.producthunt.com/frontend/graphql
+Product Hunt Jobs,https://www.producthunt.com/jobs?remote_ok=true,,No RSS feed but there is a GraphQL endpoint that might be leveraged to create your own: https://www.producthunt.com/frontend/graphql
+Public Interest Tech,https://jobs.codeforamerica.org/search,,No RSS but you can create an account (via LinkedIn) to receive notifications
 Public Interest Tech,https://jobs.codeforamerica.org/search,,No RSS but you can create an account (via LinkedIn) to receive notifications
 Python Jobs,https://www.python.org/jobs/location/telecommute/,https://www.python.org/jobs/feed/rss/,Unclear if the RSS feed is filterable to only show remote work
+Python Jobs,https://www.python.org/jobs/location/telecommute/,https://www.python.org/jobs/feed/rss/,Unclear if the RSS feed is filterable to only show remote work
+React Jobs,https://www.react-jobs.com/,,No RSS feed but there is a Twitter account (@react_jobs)
 React Jobs,https://www.react-jobs.com/,,No RSS feed but there is a Twitter account (@react_jobs)
 Reddit (/r/remotejs),https://www.reddit.com/r/remotejs/,https://www.reddit.com/r/remotejs/.rss,
+Reddit (/r/remotejs),https://www.reddit.com/r/remotejs/,https://www.reddit.com/r/remotejs/.rss,
+Reddit (/r/remotephp),https://www.reddit.com/r/remotephp/,https://www.reddit.com/r/remotephp/.rss,
 Reddit (/r/remotephp),https://www.reddit.com/r/remotephp/,https://www.reddit.com/r/remotephp/.rss,
 Reddit (/r/remotepython),https://www.reddit.com/r/remotepython/,https://www.reddit.com/r/remotepython/.rss,
+Reddit (/r/remotepython),https://www.reddit.com/r/remotepython/,https://www.reddit.com/r/remotepython/.rss,
+Remote OK,https://remoteok.io/remote-companies,https://remoteok.io/remote-jobs.rss,
 Remote OK,https://remoteok.io/remote-companies,https://remoteok.io/remote-jobs.rss,
 Remote Work Hub,https://remoteworkhub.com/remote-jobs/,https://remoteworkhub.com/feed/?post_type=job,
+Remote Work Hub,https://remoteworkhub.com/remote-jobs/,https://remoteworkhub.com/feed/?post_type=job,
+Remote.co,https://remote.co/remote-jobs/,https://remote.co/feed/?post_type=job_listing,
 Remote.co,https://remote.co/remote-jobs/,https://remote.co/feed/?post_type=job_listing,
 Remotely Awesome Jobs,https://www.remotelyawesomejobs.com/,,No RSS feed but you can sign up for email alerts
+Remotely Awesome Jobs,https://www.remotelyawesomejobs.com/,,No RSS feed but you can sign up for email alerts
+Remotive,https://remotive.io/find-a-job,https://remotive.io/feed/?post_type=job_listing,
 Remotive,https://remotive.io/find-a-job,https://remotive.io/feed/?post_type=job_listing,
 Ruby Now,https://jobs.rubynow.com,,No RSS feed
+Ruby Now,https://jobs.rubynow.com,,No RSS feed
+SkipeTheDrive,https://www.skipthedrive.com/,,No RSS feed but there is an email subscription available
 SkipeTheDrive,https://www.skipthedrive.com/,,No RSS feed but there is an email subscription available
 Smashing Jobs (Freelance),https://jobs.smashingmagazine.com/freelance/all,http://jobs.smashingmagazine.com/rss/freelance/all,
+Smashing Jobs (Freelance),https://jobs.smashingmagazine.com/freelance/all,http://jobs.smashingmagazine.com/rss/freelance/all,
 Stack Overflow (remote),https://stackoverflow.com/jobs/remote-developer-jobs,https://stackoverflow.com/jobs/feed?r=True,
-StartUpHire,http://www.startuphire.com/directory/,,
+Stack Overflow (remote),https://stackoverflow.com/jobs/remote-developer-jobs,https://stackoverflow.com/jobs/feed?r=True,
 StartUpers,https://www.startupers.com/,http://feeds.feedburner.com/startup-jobs,
+StartUpers,https://www.startupers.com/,http://feeds.feedburner.com/startup-jobs,
+StartUpHire,http://www.startuphire.com/directory/,,
+StartUpHire,http://www.startuphire.com/directory/,,
+StartUs,https://www.startus.cc/jobs/remote-work,,
 StartUs,https://www.startus.cc/jobs/remote-work,,
 TechMeAbroad,https://techmeabroad.com,,No RSS feed but they have a Twitter account (@techmeabroad)
+TechMeAbroad,https://techmeabroad.com,,No RSS feed but they have a Twitter account (@techmeabroad)
+The Muse,https://www.themuse.com/jobs?filter=true,,
 The Muse,https://www.themuse.com/jobs?filter=true,,
 The Remote Working Company,http://www.remoteworking.co/,http://www.remoteworking.co/feed/,
+The Remote Working Company,http://www.remoteworking.co/,http://www.remoteworking.co/feed/,
+Title,URL,Feed URL,Notes
+UpWork,https://www.upwork.com/o/jobs/browse/,,
 UpWork,https://www.upwork.com/o/jobs/browse/,,
 VentureLoop,http://ventureloop.com/ventureloop/home.php,,
+VentureLoop,http://ventureloop.com/ventureloop/home.php,,
+Virtual Vocations,https://www.virtualvocations.com/jobs,https://www.virtualvocations.com/jobs/rss,Variety of remote work beyond developer jobs
 Virtual Vocations,https://www.virtualvocations.com/jobs,https://www.virtualvocations.com/jobs/rss,Variety of remote work beyond developer jobs
 Vue Jobs,https://vuejobs.com/remote-vuejs-jobs,https://vuejobs.com/feed,
-WHF.io,https://www.wfh.io,https://www.wfh.io/jobs.atom,You can find a list of RSS feeds for specific categories here: https://www.wfh.io/feeds
-WP Hired,http://www.wphired.com/,http://www.wphired.com/jobs/feed/,
+Vue Jobs,https://vuejobs.com/remote-vuejs-jobs,https://vuejobs.com/feed,
 We Work Remotely,https://weworkremotely.com/,https://weworkremotely.com/jobs.rss,You can filter by more specific categories using the RSS URLs on the main page. They look like this: https://weworkremotely.com/categories/2-programming/jobs.rss
+We Work Remotely,https://weworkremotely.com/,https://weworkremotely.com/jobs.rss,You can filter by more specific categories using the RSS URLs on the main page. They look like this: https://weworkremotely.com/categories/2-programming/jobs.rss
+WHF.io,https://www.wfh.io,https://www.wfh.io/jobs.atom,You can find a list of RSS feeds for specific categories here: https://www.wfh.io/feeds
+WHF.io,https://www.wfh.io,https://www.wfh.io/jobs.atom,You can find a list of RSS feeds for specific categories here: https://www.wfh.io/feeds
+WordPress Jobs,https://jobs.wordpress.net/,https://jobs.wordpress.net/feed/,You can filter by category by using the category-specific RSS feeds from the frontpage. They look like this: https://jobs.wordpress.net/job_category/development/feed/
 WordPress Jobs,https://jobs.wordpress.net/,https://jobs.wordpress.net/feed/,You can filter by category by using the category-specific RSS feeds from the frontpage. They look like this: https://jobs.wordpress.net/job_category/development/feed/
 Work Remotely,http://workrem.com/,http://workrem.com/feed/?post_type=job_listing,If you add /feed to the end of any job category URL you will get an RSS feed for that specific category.
+Work Remotely,http://workrem.com/,http://workrem.com/feed/?post_type=job_listing,If you add /feed to the end of any job category URL you will get an RSS feed for that specific category.
+Working Nomads,https://www.workingnomads.co/jobs,https://www.workingnomads.co/api/exposed_jobs/,The feed is a JSON feed
 Working Nomads,https://www.workingnomads.co/jobs,https://www.workingnomads.co/api/exposed_jobs/,The feed is a JSON feed
 Working Not Working,https://workingnotworking.com/unjobboard,,
+Working Not Working,https://workingnotworking.com/unjobboard,,
+WP Hired,http://www.wphired.com/,http://www.wphired.com/jobs/feed/,
+WP Hired,http://www.wphired.com/,http://www.wphired.com/jobs/feed/,
