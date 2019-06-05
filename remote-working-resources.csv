@@ -52,8 +52,7 @@ No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,https://nofluffjobs.com/?
 NODESK,https://nodesk.co/remote-jobs/anywhere/,,On Twitter (@nodeskco)
 NTEN,https://www.nten.org/jobs/,https://www.nten.org/feed/?post_type=job,Nonprofit Technology Network
 Panda Jobs,http://panda.jobs/?q=MYSwLgngJATgpgWwPZjgLlJNAlRL1AAA,,
-Power to Fly,https://powertofly.com/jobs/page/1/?skills=&amp;country=&amp;location_type=Remote&amp;submit=Filter,,
-PowerToFly,https://powertofly.com/jobs/?submit=Filter,,No RSS feed. Focused on working with companies emphasizing diversity in hiring. Women helping women elevate their careers
+PowerToFly,https://powertofly.com/jobs/page/1/?skills=&amp;country=&amp;location_type=Remote&amp;submit=Filter,,No RSS feed. Focused on working with companies emphasizing diversity in hiring. Women helping women elevate their careers
 Product Hunt Jobs,https://www.producthunt.com/jobs?remote_ok=true,,No RSS feed but there is a GraphQL endpoint that might be leveraged to create your own: https://www.producthunt.com/frontend/graphql
 Public Interest Tech,https://jobs.codeforamerica.org/search,,No RSS but you can create an account (via LinkedIn) to receive notifications
 Python Jobs,https://www.python.org/jobs/location/telecommute/,https://www.python.org/jobs/feed/rss/,Unclear if the RSS feed is filterable to only show remote work
