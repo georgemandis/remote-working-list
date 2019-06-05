@@ -18,7 +18,7 @@ The script is a little pointless at the moment given the OPML file is being comm
 
 — Created and curated by [George Mandis](https://george.mand.is).
 
-For tips on how to use this project please read [Resources and strategies for remote workers and freelancers
+For tips on how to use this project please read: [Resources and strategies for remote workers and freelancers
 ](https://george.mand.is/2017/10/resources-and-strategies-for-remote-workers-and-freelancers/)
 
 ## Pull Requests
