@@ -1,12 +1,12 @@
 # Remote Work List for Developers
 
-A list of job boards and websites for nomadic developers to look for freelance work. Currently there are over 60 sites with remote job listings! Many of them have RSS feeds available as well.
+A list of job boards and websites for nomadic developers to look for freelance work. Currently there are over 90 sites with remote job listings! Many of them have RSS feeds available as well.
 
 The core list is maintained in a CSV file here:
 
 [remote-working-resources.csv](https://github.com/georgemandis/remote-working-list/blob/master/remote-working-resources.csv)
 
-An OPML file is available to import into your feed reader of choice! It is part of the repository and can be found here:
+An OPML file is available to import into your RSS feed reader of choice. It is part of the repository and can be found here:
 
 [remote-working-resources.opml](https://github.com/georgemandis/remote-working-list/blob/master/remote-working-resources.opml)
 
@@ -35,7 +35,8 @@ You're more than welcome to make pull requests! Each listing should have:
 
 Here are some future changes I'd love to see and discuss:
 
-- Add taxonomies for better organization. For example, the WordPress-specific sites might not be relevant to everyone
+- Add taxonomies for better organization. For example, the language and platform-specific sites might not be relevant to everyone
 - Organize the job sites into specific categories
 - Provide a separate list (?) for job networks that require sign-up to join or where freelancers and remote-workers create profiles to advertise themselves to organizations looking to hire.
 - Extend the npm scripts to allow returning subsets of CSV lists — RSS feeds only, no feeds, queries, other options? Perhaps even pull recent job posts from the feed and return them?
+- Start to build and include a separate list that contains resources that are not just job-listings for people seeking remote work
