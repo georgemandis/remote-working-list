@@ -42,6 +42,7 @@ Inbound,https://inbound.org/jobs/remote-marketing-jobs,,
 Indeed,http://www.indeed.com/jobs?q=web+development&amp;l=remote,http://rss.indeed.com/rss,You can filter more specifically by passing the q parameter like this: http://rss.indeed.com/rss?q=web+development
 Jobbatical,https://jobbatical.com/jobs,https://feeds.feedburner.com/jobbatical-jobs,
 Jobspresso,https://jobspresso.co,https://jobspresso.co/feed/?post_type=job_listing,
+JustRemote,https://justremote.co/,,No RSS feed but they do have a mailing list
 Krop,https://www.krop.com/,http://www.krop.com/services/feeds/rss/latest/,
 Landing.jobs,https://landing.jobs/jobs?remote=true,https://landing.jobs/feed?remote=true,Other parameters can be passed to further filter job results
 Lara Jobs,https://larajobs.com/?location=&amp;remote=1,https://larajobs.com/feed,
