@@ -35,6 +35,7 @@
 <outline htmlUrl="http://jobs.mashable.com/jobs/search/results" title="Mashable Jobs" xmlUrl="http://jobs.mashable.com/jobs/search/results?format=rss" type="rss" text="Mashable Jobs"/>
 <outline htmlUrl="https://nofluffjobs.com/?criteria=remote" title="No Fluff Jobs" xmlUrl="https://nofluffjobs.com/?criteria=remote" type="rss" text="No Fluff Jobs"/>
 <outline htmlUrl="https://www.nten.org/jobs/" title="NTEN" xmlUrl="https://www.nten.org/feed/?post_type=job" type="rss" text="NTEN"/>
+<outline htmlUrl="https://pangian.com/job-travel-remote/" title="Pangian" xmlUrl="https://pangian.com/feed/?post_type=job_listing" type="rss" text="Pangian"/>
 <outline htmlUrl="https://www.python.org/jobs/location/telecommute/" title="Python Jobs" xmlUrl="https://www.python.org/jobs/feed/rss/" type="rss" text="Python Jobs"/>
 <outline htmlUrl="https://www.reddit.com/r/remotejs/" title="Reddit (/r/remotejs)" xmlUrl="https://www.reddit.com/r/remotejs/.rss" type="rss" text="Reddit (/r/remotejs)"/>
 <outline htmlUrl="https://www.reddit.com/r/remotephp/" title="Reddit (/r/remotephp)" xmlUrl="https://www.reddit.com/r/remotephp/.rss" type="rss" text="Reddit (/r/remotephp)"/>
