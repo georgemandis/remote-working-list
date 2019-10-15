@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/georgemandis/remote-working-list#readme",
   "dependencies": {
-    "csv-parse": "^1.2.4"
+    "csv-parse": "^4.4.6"
   }
 }
