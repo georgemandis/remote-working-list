@@ -49,7 +49,7 @@ Lara Jobs,https://larajobs.com/?location=&amp;remote=1,https://larajobs.com/feed
 LinkedIn,https://www.linkedin.com/jobs/,,No RSS feeds but you can create job alerts with an account.You must provide a search term to see job listings. Most (all?) jobs require a LinkedIn account to apply
 LocalSolo,https://localsolo.com/jobs,,
 Mashable Jobs,http://jobs.mashable.com/jobs/search/results,http://jobs.mashable.com/jobs/search/results?format=rss,You can filter more specifically by passing parameters but it's easiest to filter the results to your liking on the page and copy the update RSS feed link
-No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,https://nofluffjobs.com/?criteria=remote,
+No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,,
 NODESK,https://nodesk.co/remote-jobs/anywhere/,,On Twitter (@nodeskco)
 NTEN,https://www.nten.org/jobs/,https://www.nten.org/feed/?post_type=job,Nonprofit Technology Network
 Outsourcely,https://www.outsourcely.com/remote-workers,,No RSS feed but you can create an account and receive notifications
@@ -67,7 +67,7 @@ Remote OK,https://remoteok.io/remote-companies,https://remoteok.io/remote-jobs.r
 Remote Work Hub,https://remoteworkhub.com/remote-jobs/,https://remoteworkhub.com/feed/?post_type=job,
 Remote.co,https://remote.co/remote-jobs/,https://remote.co/feed/?post_type=job_listing,
 Remotely Awesome Jobs,https://www.remotelyawesomejobs.com/,,No RSS feed but you can sign up for email alerts
-Remotive,https://remotive.io/find-a-job,https://remotive.io/feed/?post_type=job_listing,
+Remotive,https://remotive.io/find-a-job,,
 Ruby Now,https://jobs.rubynow.com,,No RSS feed
 SkipeTheDrive,https://www.skipthedrive.com/,,No RSS feed but there is an email subscription available
 Smashing Jobs (Freelance),https://www.smashingmagazine.com/jobs/feed/,https://www.smashingmagazine.com/jobs/feed/,
