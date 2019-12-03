@@ -11,13 +11,11 @@
 <outline htmlUrl="https://codepen.io/jobs" title="CodePen Job Listings" xmlUrl="https://codepen.io/jobs/feed" type="rss" text="CodePen Job Listings"/>
 <outline htmlUrl="http://jobs.coreint.org/" title="Core Intuition Jobs" xmlUrl="http://jobs.coreint.org/rss.xml" type="rss" text="Core Intuition Jobs"/>
 <outline htmlUrl="http://www.coroflot.com/design-jobs" title="Coroflot" xmlUrl="http://feeds.feedburner.com/coroflot/AllJobs" type="rss" text="Coroflot"/>
-<outline htmlUrl="https://craigslist.org/search/web" title="Craigs List" xmlUrl="https://craigslist.org/search/web?format=rss" type="rss" text="Craigs List"/>
 <outline htmlUrl="https://www.crunchboard.com/" title="Crunchboard Job Board" xmlUrl="https://www.crunchboard.com/jobs.rss" type="rss" text="Crunchboard Job Board"/>
 <outline htmlUrl="https://cryptojobslist.com/remote" title="Crypto Jobs List" xmlUrl="https://cryptojobslist.com/jobs.rss?jobLocation=Remote" type="rss" text="Crypto Jobs List"/>
 <outline htmlUrl="https://dribbble.com/jobs?anywhere=true&amp;location=Anywhere" title="Dribbble" xmlUrl="https://dribbble.com/jobs.rss?anywhere=true&amp;location=Anywhere" type="rss" text="Dribbble"/>
 <outline htmlUrl="https://jobs.drupal.org/" title="Drupal Jobs" xmlUrl="https://jobs.drupal.org/filtered-jobs/%25/%25/%25/%25/%25/feed" type="rss" text="Drupal Jobs"/>
 <outline htmlUrl="http://jobs.emberjs.com/" title="Ember Job Board" xmlUrl="http://jobs.emberjs.com/jobs.atom" type="rss" text="Ember Job Board"/>
-<outline htmlUrl="http://jobs.elixirdose.com/" title="Exlixir Jobs" xmlUrl="http://jobs.elixirdose.com/feed" type="rss" text="Exlixir Jobs"/>
 <outline htmlUrl="https://findbacon.com/jobs/remote" title="Find Bacon" xmlUrl="https://findbacon.com/rss/main" type="rss" text="Find Bacon"/>
 <outline htmlUrl="https://www.fossjobs.net/" title="FOSS Jobs" xmlUrl="https://www.fossjobs.net/rss/all/" type="rss" text="FOSS Jobs"/>
 <outline htmlUrl="https://www.freelancer.com/jobs/1/" title="Freelancer" xmlUrl="https://www.freelancer.com/rss.xml" type="rss" text="Freelancer"/>
@@ -43,7 +41,6 @@
 <outline htmlUrl="https://remote.co/remote-jobs/" title="Remote.co" xmlUrl="https://remote.co/feed/?post_type=job_listing" type="rss" text="Remote.co"/>
 <outline htmlUrl="https://www.smashingmagazine.com/jobs/feed/" title="Smashing Jobs (Freelance)" xmlUrl="https://www.smashingmagazine.com/jobs/feed/" type="rss" text="Smashing Jobs (Freelance)"/>
 <outline htmlUrl="https://stackoverflow.com/jobs/remote-developer-jobs" title="Stack Overflow (remote)" xmlUrl="https://stackoverflow.com/jobs/feed?r=True" type="rss" text="Stack Overflow (remote)"/>
-<outline htmlUrl="https://www.startupers.com/" title="StartUpers" xmlUrl="http://feeds.feedburner.com/startup-jobs" type="rss" text="StartUpers"/>
 <outline htmlUrl="https://www.virtualvocations.com/jobs" title="Virtual Vocations" xmlUrl="https://www.virtualvocations.com/jobs/rss" type="rss" text="Virtual Vocations"/>
 <outline htmlUrl="https://vuejobs.com/remote-vuejs-jobs" title="Vue Jobs" xmlUrl="https://vuejobs.com/feed" type="rss" text="Vue Jobs"/>
 <outline htmlUrl="https://weworkremotely.com/" title="We Work Remotely" xmlUrl="https://weworkremotely.com/remote-jobs.rss" type="rss" text="We Work Remotely"/>
