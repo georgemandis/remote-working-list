@@ -10,7 +10,7 @@ Core Intuition Jobs,http://jobs.coreint.org/,http://jobs.coreint.org/rss.xml,For
 Coroflot,http://www.coroflot.com/design-jobs,http://feeds.feedburner.com/coroflot/AllJobs,Presented as Design Jobs but there are development/technical positions within this category
 Craigs List,https://craigslist.org/search/web,https://craigslist.org/search/web?format=rss,Exact URL will depend on city/location you want to search within
 Crunchboard Job Board,https://www.crunchboard.com/,https://www.crunchboard.com/feed.xml,
-Crypto Jobs List,https://cryptojobslist.com/remote,https://cryptojobslist.com/remote,
+Crypto Jobs List,https://cryptojobslist.com/remote,https://cryptojobslist.com/jobs.rss?jobLocation=Remote,
 Cryptocurrency Jobs,https://cryptocurrencyjobs.co,,Also on Twitter (@jobsincrypto)
 CyberCoders,https://www.cybercoders.com/browse-jobs/,,No RSS feed but can sign up for emails
 Dice,https://www.dice.com/jobs,,
@@ -77,14 +77,12 @@ StartUpHire,http://www.startuphire.com/directory/,,
 StartUs,https://www.startus.cc/jobs/remote-work,,
 TechMeAbroad,https://techmeabroad.com,,No RSS feed but they have a Twitter account (@techmeabroad)
 The Muse,https://www.themuse.com/jobs?filter=true,,
-The Remote Working Company,http://www.remoteworking.co/,http://www.remoteworking.co/feed/,
 UpWork,https://www.upwork.com/o/jobs/browse/,,
 VentureLoop,http://ventureloop.com/ventureloop/home.php,,
 Virtual Vocations,https://www.virtualvocations.com/jobs,https://www.virtualvocations.com/jobs/rss,Variety of remote work beyond developer jobs
 Vue Jobs,https://vuejobs.com/remote-vuejs-jobs,https://vuejobs.com/feed,
 We Work Remotely,https://weworkremotely.com/,https://weworkremotely.com/jobs.rss,You can filter by more specific categories using the RSS URLs on the main page. They look like this: https://weworkremotely.com/categories/2-programming/jobs.rss
 WordPress Jobs,https://jobs.wordpress.net/,https://jobs.wordpress.net/feed/,You can filter by category by using the category-specific RSS feeds from the frontpage. They look like this: https://jobs.wordpress.net/job_category/development/feed/
-Work Remotely,http://workrem.com/,http://workrem.com/feed/?post_type=job_listing,If you add /feed to the end of any job category URL you will get an RSS feed for that specific category.
 Working Nomads,https://www.workingnomads.co/jobs,https://www.workingnomads.co/api/exposed_jobs/,The feed is a JSON feed
 Working Not Working,https://workingnotworking.com/unjobboard,,
 WP Hired,http://www.wphired.com/,http://www.wphired.com/jobs/feed/,
