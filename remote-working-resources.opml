@@ -39,7 +39,6 @@
 <outline htmlUrl="https://www.reddit.com/r/remotephp/" title="Reddit (/r/remotephp)" xmlUrl="https://www.reddit.com/r/remotephp/.rss" type="rss" text="Reddit (/r/remotephp)"/>
 <outline htmlUrl="https://www.reddit.com/r/remotepython/" title="Reddit (/r/remotepython)" xmlUrl="https://www.reddit.com/r/remotepython/.rss" type="rss" text="Reddit (/r/remotepython)"/>
 <outline htmlUrl="https://remoteok.io/remote-companies" title="Remote OK" xmlUrl="https://remoteok.io/remote-jobs.rss" type="rss" text="Remote OK"/>
-<outline htmlUrl="https://remoteworkhub.com/remote-jobs/" title="Remote Work Hub" xmlUrl="https://remoteworkhub.com/feed/?post_type=job" type="rss" text="Remote Work Hub"/>
 <outline htmlUrl="https://remote.co/remote-jobs/" title="Remote.co" xmlUrl="https://remote.co/feed/?post_type=job_listing" type="rss" text="Remote.co"/>
 <outline htmlUrl="https://www.smashingmagazine.com/jobs/feed/" title="Smashing Jobs (Freelance)" xmlUrl="https://www.smashingmagazine.com/jobs/feed/" type="rss" text="Smashing Jobs (Freelance)"/>
 <outline htmlUrl="https://stackoverflow.com/jobs/remote-developer-jobs" title="Stack Overflow (remote)" xmlUrl="https://stackoverflow.com/jobs/feed?r=True" type="rss" text="Stack Overflow (remote)"/>
