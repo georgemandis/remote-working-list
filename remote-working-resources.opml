@@ -7,7 +7,7 @@
                                     <outline text="Remote Work Jobs" title="Remote Work Jobs">            
                                         <outline htmlUrl="https://jobs.adafruit.com/?query=&amp;location=&amp;type%5B%5D=7" title="Adafruit Job Boards" xmlUrl="https://jobs.adafruit.com/wpjobboard/xml/rss/?query=&amp;location=&amp;type%5B%5D=7" type="rss" text="Adafruit Job Boards"/>
 <outline htmlUrl="https://angularjobs.com/search/?query=remote&amp;location=us" title="Angular Jobs" xmlUrl="https://angularjobs.com/feed" type="rss" text="Angular Jobs"/>
-<outline htmlUrl="https://authenticjobs.com/" title="Authentic Jobs" xmlUrl="https://authenticjobs.com/rss/custom.php?remote=1" type="rss" text="Authentic Jobs"/>
+<outline htmlUrl="https://authenticjobs.com/" title="Authentic Jobs" xmlUrl="https://authenticjobs.com/?feed=job_feed" type="rss" text="Authentic Jobs"/>
 <outline htmlUrl="https://codepen.io/jobs" title="CodePen Job Listings" xmlUrl="https://codepen.io/jobs/feed" type="rss" text="CodePen Job Listings"/>
 <outline htmlUrl="http://jobs.coreint.org/" title="Core Intuition Jobs" xmlUrl="http://jobs.coreint.org/rss.xml" type="rss" text="Core Intuition Jobs"/>
 <outline htmlUrl="http://www.coroflot.com/design-jobs" title="Coroflot" xmlUrl="http://feeds.feedburner.com/coroflot/AllJobs" type="rss" text="Coroflot"/>
