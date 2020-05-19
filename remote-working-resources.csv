@@ -58,7 +58,7 @@ Panda Jobs,http://panda.jobs/?q=MYSwLgngJATgpgWwPZjgLlJNAlRL1AAA,,
 Pangian,https://pangian.com/job-travel-remote/,https://pangian.com/feed/?post_type=job_listing,
 PowerToFly,https://powertofly.com/jobs/page/1/?skills=&amp;country=&amp;location_type=Remote&amp;submit=Filter,,No RSS feed. Focused on working with companies emphasizing diversity in hiring. Women helping women elevate their careers
 Product Hunt Jobs,https://www.producthunt.com/jobs?remote_ok=true,,No RSS feed but there is a GraphQL endpoint that might be leveraged to create your own: https://www.producthunt.com/frontend/graphql
-Public Interest Tech,https://jobs.codeforamerica.org/search,,No RSS but you can create an account (via LinkedIn) to receive notifications
+Public Interest Tech,https://jobs.codeforamerica.org/search,https://jobs.codeforamerica.org/job-postings.rss,
 Python Jobs,https://www.python.org/jobs/location/telecommute/,https://www.python.org/jobs/feed/rss/,Unclear if the RSS feed is filterable to only show remote work
 React Jobs,https://www.react-jobs.com/,,No RSS feed but there is a Twitter account (@react_jobs)
 Reddit (/r/remotejs),https://www.reddit.com/r/remotejs/,https://www.reddit.com/r/remotejs/.rss,
