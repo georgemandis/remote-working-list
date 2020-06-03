@@ -31,6 +31,7 @@
 <outline htmlUrl="https://landing.jobs/jobs?remote=true" title="Landing.jobs" xmlUrl="https://landing.jobs/feed?remote=true" type="rss" text="Landing.jobs"/>
 <outline htmlUrl="https://larajobs.com/?location=&amp;remote=1" title="Lara Jobs" xmlUrl="https://larajobs.com/feed" type="rss" text="Lara Jobs"/>
 <outline htmlUrl="http://jobs.mashable.com/jobs/search/results" title="Mashable Jobs" xmlUrl="http://jobs.mashable.com/jobs/search/results?format=rss" type="rss" text="Mashable Jobs"/>
+<outline htmlUrl="https://nodesk.co/remote-jobs/anywhere/" title="NODESK" xmlUrl="https://nodesk.co/remote-jobs/index.xml" type="rss" text="NODESK"/>
 <outline htmlUrl="https://www.nten.org/jobs/" title="NTEN" xmlUrl="https://www.nten.org/feed/?post_type=job" type="rss" text="NTEN"/>
 <outline htmlUrl="https://pangian.com/job-travel-remote/" title="Pangian" xmlUrl="https://pangian.com/feed/?post_type=job_listing" type="rss" text="Pangian"/>
 <outline htmlUrl="https://jobs.codeforamerica.org/search" title="Public Interest Tech" xmlUrl="https://jobs.codeforamerica.org/job-postings.rss" type="rss" text="Public Interest Tech"/>

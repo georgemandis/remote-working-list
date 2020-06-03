@@ -51,7 +51,7 @@ LinkedIn,https://www.linkedin.com/jobs/,,No RSS feeds but you can create job ale
 LocalSolo,https://localsolo.com/jobs,,
 Mashable Jobs,http://jobs.mashable.com/jobs/search/results,http://jobs.mashable.com/jobs/search/results?format=rss,You can filter more specifically by passing parameters but it's easiest to filter the results to your liking on the page and copy the update RSS feed link
 No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,,
-NODESK,https://nodesk.co/remote-jobs/anywhere/,,On Twitter (@nodeskco)
+NODESK,https://nodesk.co/remote-jobs/anywhere/,https://nodesk.co/remote-jobs/index.xml,On Twitter (@nodeskco)
 NTEN,https://www.nten.org/jobs/,https://www.nten.org/feed/?post_type=job,Nonprofit Technology Network
 Outsourcely,https://www.outsourcely.com/remote-workers,,No RSS feed but you can create an account and receive notifications
 Panda Jobs,http://panda.jobs/?q=MYSwLgngJATgpgWwPZjgLlJNAlRL1AAA,,
