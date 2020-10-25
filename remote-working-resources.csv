@@ -31,6 +31,7 @@ GIIN,https://jobs.thegiin.org/,,Global Impact Investing Network
 GitHub,http://jobs.github.com/,https://jobs.github.com/positions.atom?location=Remote,You can filter more specifically by passing the description parameter like this: https://jobs.github.com/positions.atom?description=JavaScript&amp;location=Remote
 Glassdoor,https://www.glassdoor.com/Job/jobs.htm,,No RSS feeds but you can create job alerts with an account
 Golang / Go Jobs,https://www.golangprojects.com/,https://www.golangprojects.com/rss.xml,Jobs for Goland/Go developers
+Golang Remote Jobs,https://golangjob.xyz/jobs/remote-ok,https://golangjob.xyz/jobs/remote-ok,Remote Jobs for Go/Golang Developers
 GrowthHackers,https://growthhackers.com/jobs/,,
 Guru,https://www.guru.com/d/jobs/,https://www.guru.com/rss/jobs/,
 Hacker News Jobs,https://news.ycombinator.com/jobs,,No RSS feed for jobs but there is an API which would theoretically allow you to build one: https://github.com/HackerNews/API
