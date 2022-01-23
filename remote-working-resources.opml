@@ -8,6 +8,7 @@
                                         <outline htmlUrl="https://jobs.adafruit.com/?query=&amp;location=&amp;type%5B%5D=7" title="Adafruit Job Boards" xmlUrl="https://jobs.adafruit.com/wpjobboard/xml/rss/?query=&amp;location=&amp;type%5B%5D=7" type="rss" text="Adafruit Job Boards"/>
 <outline htmlUrl="https://angularjobs.com/search/?query=remote&amp;location=us" title="Angular Jobs" xmlUrl="https://angularjobs.com/feed" type="rss" text="Angular Jobs"/>
 <outline htmlUrl="https://authenticjobs.com/" title="Authentic Jobs" xmlUrl="https://authenticjobs.com/?feed=job_feed" type="rss" text="Authentic Jobs"/>
+<outline htmlUrl="https://ClojureJobboard.com/" title="ClojureJobboard.com" xmlUrl="https://clojurejobboard.com/rss.xml" type="rss" text="ClojureJobboard.com"/>
 <outline htmlUrl="https://codepen.io/jobs" title="CodePen Job Listings" xmlUrl="https://codepen.io/jobs/feed" type="rss" text="CodePen Job Listings"/>
 <outline htmlUrl="http://jobs.coreint.org/" title="Core Intuition Jobs" xmlUrl="http://jobs.coreint.org/rss.xml" type="rss" text="Core Intuition Jobs"/>
 <outline htmlUrl="http://www.coroflot.com/design-jobs" title="Coroflot" xmlUrl="http://feeds.feedburner.com/coroflot/AllJobs" type="rss" text="Coroflot"/>
@@ -23,9 +24,11 @@
 <outline htmlUrl="https://functionaljobs.com/" title="Functional Jobs" xmlUrl="https://functionaljobs.com/jobs/?format=rss" type="rss" text="Functional Jobs"/>
 <outline htmlUrl="http://jobs.github.com/" title="GitHub" xmlUrl="https://jobs.github.com/positions.atom?location=Remote" type="rss" text="GitHub"/>
 <outline htmlUrl="https://www.golangprojects.com/" title="Golang / Go Jobs" xmlUrl="https://www.golangprojects.com/rss.xml" type="rss" text="Golang / Go Jobs"/>
+<outline htmlUrl="https://golangjob.xyz/jobs/remote-ok" title="Golang Remote Jobs" xmlUrl="https://golangjob.xyz/jobs/remote-ok" type="rss" text="Golang Remote Jobs"/>
 <outline htmlUrl="https://www.guru.com/d/jobs/" title="Guru" xmlUrl="https://www.guru.com/rss/jobs/" type="rss" text="Guru"/>
 <outline htmlUrl="https://hasjob.co/?l=anywhere" title="HasJob" xmlUrl="https://hasjob.co/feed" type="rss" text="HasJob"/>
 <outline htmlUrl="http://www.indeed.com/jobs?q=web+development&amp;l=remote" title="Indeed" xmlUrl="http://rss.indeed.com/rss" type="rss" text="Indeed"/>
+<outline htmlUrl="https://jobhunt.ai/" title="Jobhunt.ai" xmlUrl="https://jobhunt.ai/rss.xml" type="rss" text="Jobhunt.ai"/>
 <outline htmlUrl="https://jobspresso.co" title="Jobspresso" xmlUrl="https://jobspresso.co/feed/?post_type=job_listing" type="rss" text="Jobspresso"/>
 <outline htmlUrl="https://www.krop.com/" title="Krop" xmlUrl="http://www.krop.com/services/feeds/rss/latest/" type="rss" text="Krop"/>
 <outline htmlUrl="https://landing.jobs/jobs?remote=true" title="Landing.jobs" xmlUrl="https://landing.jobs/feed?remote=true" type="rss" text="Landing.jobs"/>
@@ -41,6 +44,7 @@
 <outline htmlUrl="https://www.reddit.com/r/remotepython/" title="Reddit (/r/remotepython)" xmlUrl="https://www.reddit.com/r/remotepython/.rss" type="rss" text="Reddit (/r/remotepython)"/>
 <outline htmlUrl="https://remoteok.io/remote-companies" title="Remote OK" xmlUrl="https://remoteok.io/remote-jobs.rss" type="rss" text="Remote OK"/>
 <outline htmlUrl="https://remote.co/remote-jobs/" title="Remote.co" xmlUrl="https://remote.co/feed/?post_type=job_listing" type="rss" text="Remote.co"/>
+<outline htmlUrl="https://remotesome.com" title="Remotesome" xmlUrl="https://www.remotesome.com/talent-signup" type="rss" text="Remotesome"/>
 <outline htmlUrl="https://skoll.org/community/jobs/" title="Skoll Community Jobs Board" xmlUrl="https://skoll.org/?feed=job_feed&job_types=other%2Csase%2Cskoll&search_location=remote&job_categories&search_keywords" type="rss" text="Skoll Community Jobs Board"/>
 <outline htmlUrl="https://www.smashingmagazine.com/jobs/feed/" title="Smashing Jobs (Freelance)" xmlUrl="https://www.smashingmagazine.com/jobs/feed/" type="rss" text="Smashing Jobs (Freelance)"/>
 <outline htmlUrl="https://stackoverflow.com/jobs/remote-developer-jobs" title="Stack Overflow (remote)" xmlUrl="https://stackoverflow.com/jobs/feed?r=True" type="rss" text="Stack Overflow (remote)"/>
