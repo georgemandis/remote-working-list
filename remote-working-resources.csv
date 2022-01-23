@@ -6,6 +6,7 @@ Authentic Jobs,https://authenticjobs.com/,https://authenticjobs.com/?feed=job_fe
 Behance,https://www.behance.net/joblist,,No RSS feed but you can subscribe to email
 CareerBuilder,https://www.careerbuilder.com/browse,,
 Career Vault,https://careervault.io/,,
+ClojureJobboard.com,https://ClojureJobboard.com/,https://clojurejobboard.com/rss.xml,Clojure jobs only with a remote section
 CodePen Job Listings,https://codepen.io/jobs,https://codepen.io/jobs/feed,
 Core Intuition Jobs,http://jobs.coreint.org/,http://jobs.coreint.org/rss.xml,For iOS and Mac Cocoa Developers
 Coroflot,http://www.coroflot.com/design-jobs,http://feeds.feedburner.com/coroflot/AllJobs,Presented as Design Jobs but there are development/technical positions within this category
@@ -45,6 +46,7 @@ Idealist,https://www.idealist.org/en/?radius=160000&amp;sort=relevance&amp;type=
 Inbound,https://inbound.org/jobs/remote-marketing-jobs,,
 Indeed,http://www.indeed.com/jobs?q=web+development&amp;l=remote,http://rss.indeed.com/rss,You can filter more specifically by passing the q parameter like this: http://rss.indeed.com/rss?q=web+development
 Jobbatical,https://jobbatical.com/jobs,,
+Jobhunt.ai,https://jobhunt.ai/,https://jobhunt.ai/rss.xml,Machine learning and data science jobs with a remote section
 Jobspresso,https://jobspresso.co,https://jobspresso.co/feed/?post_type=job_listing,
 JustRemote,https://justremote.co/,,No RSS feed but they do have a mailing list
 Krop,https://www.krop.com/,http://www.krop.com/services/feeds/rss/latest/,
