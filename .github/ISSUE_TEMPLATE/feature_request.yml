@@ -1,62 +1,35 @@
 name: Suggested Resource
 description: Suggest a resource to add to this project
-title: "[Bug]: "
-labels: ["bug", "triage"]
+title: "[Suggested]: "
+labels: ["suggested"]
 assignees:
-  - octocat
+  - georgemandis
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: input
-    id: contact
+    id: title
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Title
+      description: The name of the website
+      placeholder: ex. Frobozz Remote Jobs
     validations:
       required: true
-  - type: dropdown
-    id: version
+  - type: input
+    id: url
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: URL
+      description: The URL for the website, preferably the landing page where jobs are actually listed
+      placeholder: ex. https://frobozzcojobs.com/remote
     validations:
-      required: true
-  - type: dropdown
-    id: browsers
+      required: true      
+  - type: input
+    id: feed
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+      label: Feed URL
+      description: A link to the primary RSS or JSON feed for job listings
+      placeholder: https://frobozzcojobs.com/rss.xml
   - type: textarea
-    id: logs
+    id: notes
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      label: Notes
+      description: Anything else worth mentioning. 
+      placeholder: ex. Optional URL parameters for feeds, other means to subscribe if no feed is present, other limitations or specificty in jobs posted (optional)
