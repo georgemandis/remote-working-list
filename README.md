@@ -34,4 +34,7 @@ For tips on how to use this project please read: [Resources and strategies for r
 
 **You're more than welcome to make suggestions for resources to add to this list!**
 
-[Please use this form](https://github.com/georgemandis/remote-working-list/issues/new?assignees=georgemandis&labels=suggested&template=feature_request.yml&title=%5BSuggested%5D%3A+) to file an issue with links and information about the resource you'd like to see added to this list.
+
+You can file an issue with information about the resource you'd like to see added to this list.
+
+- [Please use this form](https://github.com/georgemandis/remote-working-list/issues/new?assignees=georgemandis&labels=suggested&template=feature_request.yml&title=%5BSuggested%5D%3A+)
