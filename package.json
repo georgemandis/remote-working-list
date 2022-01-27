@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "opml:build": "node index.js opml > remote-working-resources.opml"
+    "build:opml": "node src/index.js opml > dist/remote-working-resources.opml",
+    "build:html": "node src/index.js html  > dist/remote-working-resources.html",
+    "build:markdown": "node src/index.js list  > dist/remote-working-resources.md"
   },
   "repository": {
     "type": "git",
@@ -24,5 +26,10 @@
   "homepage": "https://github.com/georgemandis/remote-working-list#readme",
   "dependencies": {
     "csv-parse": "^4.4.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
   }
 }
