@@ -1,0 +1,4 @@
+- **Title**: The name of the website
+- **URL**: The URL for the website, preferably the landing page where jobs are actually listed
+- **Feed URL**: A link to the primary RSS or JSON feed for job listings
+- **Notes**: Anything else worth mentioning including: optional URL parameters for feeds, other means to subscribe if no feed is present, other limitations or specificty in jobs posted (optional)

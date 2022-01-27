@@ -25,20 +25,10 @@ There are scripts you can run to generate the OPML, HTML and Markdown files from
 The OPML script is smart enough to exclude sites without an RSS feed. The other scripts generate a complete list.
 
 ## About 
-— Created and curated by [George Mandis](https://george.mand.is).
+Created by [George Mandis](https://george.mand.is).
 
 For tips on how to use this project please read: [Resources and strategies for remote workers and freelancers
 ](https://george.mand.is/2017/10/resources-and-strategies-for-remote-workers-and-freelancers/)
-
-## Pull Requests
-
-You're more than welcome to make pull requests! Each listing should have:
-
-- **Title**: The name of the website
-- **URL**: The URL for the website, preferably the landing page where jobs are actually listed
-- **Feed URL**: A link to the primary RSS or JSON feed for job listings
-- **Notes**: Anything else worth mentioning including: optional URL parameters for feeds, other means to subscribe if no feed is present, other limitations or specificty in jobs posted (optional)
-
 
 ## Future Changes
 
