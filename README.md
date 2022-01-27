@@ -30,6 +30,14 @@ Created by [George Mandis](https://george.mand.is).
 For tips on how to use this project please read: [Resources and strategies for remote workers and freelancers
 ](https://george.mand.is/2017/10/resources-and-strategies-for-remote-workers-and-freelancers/)
 
+## Submit your resources
+
+**You're more than welcome to make suggestions for resources to add to this list!**
+
+[Please use this form](https://github.com/georgemandis/remote-working-list/issues/new?assignees=georgemandis&labels=suggested&template=feature_request.yml&title=%5BSuggested%5D%3A+) to file an issue nad submit your resource
+
+
+
 ## Future Changes
 
 Here are some future changes I'd love to see and discuss:
