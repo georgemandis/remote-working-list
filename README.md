@@ -4,11 +4,11 @@ A list of job boards and websites for nomadic developers to look for freelance w
 
 The core list is maintained in a CSV file here:
 
-[remote-working-resources.csv](https://github.com/georgemandis/remote-working-list/blob/main/remote-working-resources.csv)
+- [remote-working-resources.csv](https://github.com/georgemandis/remote-working-list/blob/main/remote-working-resources.csv)
 
 An OPML file is available to import into your RSS feed reader of choice. It is part of the repository and can be found here:
 
-[remote-working-resources.opml](https://github.com/georgemandis/remote-working-list/blob/main/dist/remote-working-resources.opml)
+- [remote-working-resources.opml](https://github.com/georgemandis/remote-working-list/blob/main/dist/remote-working-resources.opml)
 
 There is also an HTML and a Markdown file in the same folder:
 - [remote-working-resources.html](https://github.com/georgemandis/remote-working-list/blob/main/dist/remote-working-resources.html)
@@ -30,19 +30,8 @@ Created by [George Mandis](https://george.mand.is).
 For tips on how to use this project please read: [Resources and strategies for remote workers and freelancers
 ](https://george.mand.is/2017/10/resources-and-strategies-for-remote-workers-and-freelancers/)
 
-## Submit your resources
+## Suggest a resource
 
 **You're more than welcome to make suggestions for resources to add to this list!**
 
-[Please use this form](https://github.com/georgemandis/remote-working-list/issues/new?assignees=georgemandis&labels=suggested&template=feature_request.yml&title=%5BSuggested%5D%3A+) to file an issue nad submit your resource
-
-
-
-## Future Changes
-
-Here are some future changes I'd love to see and discuss:
-
-- Add taxonomies for better organization. For example, the language and platform-specific sites might not be relevant to everyone
-- Organize the job sites into specific categories
-- Provide a separate list (?) for job networks that require sign-up to join or where freelancers and remote-workers create profiles to advertise themselves to organizations looking to hire.
-- Start to build and include a separate list that contains resources that are not just job-listings for people seeking remote work
+[Please use this form](https://github.com/georgemandis/remote-working-list/issues/new?assignees=georgemandis&labels=suggested&template=feature_request.yml&title=%5BSuggested%5D%3A+) to file an issue with links and information about the resource you'd like to see added to this list.
