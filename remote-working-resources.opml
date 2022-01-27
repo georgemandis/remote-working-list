@@ -20,6 +20,7 @@
 <outline htmlUrl="https://findbacon.com/jobs/remote" title="Find Bacon" xmlUrl="https://findbacon.com/rss/main" type="rss" text="Find Bacon"/>
 <outline htmlUrl="https://www.fossjobs.net/" title="FOSS Jobs" xmlUrl="https://www.fossjobs.net/rss/all/" type="rss" text="FOSS Jobs"/>
 <outline htmlUrl="https://www.freelancer.com/jobs/1/" title="Freelancer" xmlUrl="https://www.freelancer.com/rss.xml" type="rss" text="Freelancer"/>
+<outline htmlUrl="https://www.freelancermap.com/it-projects.html" title="freelancermap" xmlUrl="https://www.freelancermap.com/feeds/projects/int-international.xml" type="rss" text="freelancermap"/>
 <outline htmlUrl="https://freshremote.work/" title="FreshRemote.work" xmlUrl="https://freshremote.work/feed/" type="rss" text="FreshRemote.work"/>
 <outline htmlUrl="https://functionaljobs.com/" title="Functional Jobs" xmlUrl="https://functionaljobs.com/jobs/?format=rss" type="rss" text="Functional Jobs"/>
 <outline htmlUrl="http://jobs.github.com/" title="GitHub" xmlUrl="https://jobs.github.com/positions.atom?location=Remote" type="rss" text="GitHub"/>
