@@ -35,6 +35,7 @@ Guru,https://www.guru.com/d/jobs/,https://www.guru.com/rss/jobs/,
 Hacker News Jobs,https://news.ycombinator.com/jobs,,No RSS feed for jobs but there is an API which would theoretically allow you to build one: https://github.com/HackerNews/API
 HasJob,https://hasjob.co/?l=anywhere,https://hasjob.co/feed,The have an Anywhere option under the location filter. Feed not filterable. Also on Twitter (@hasjob)
 HigherEd Jobs,https://www.higheredjobs.com/search/remote.cfm,,They have an Online/Remote Job section
+Himalayas,https://himalayas.app/jobs,,Dedicated remote job board
 Hubstaff,https://talent.hubstaff.com/search/jobs,,
 Idealist,https://www.idealist.org/en/?radius=160000&amp;sort=relevance&amp;type=ALL,,No RSS feed but there is an email subscription available
 Indeed,http://www.indeed.com/jobs?q=web+development&amp;l=remote,http://rss.indeed.com/rss,You can filter more specifically by passing the q parameter like this: http://rss.indeed.com/rss?q=web+development
