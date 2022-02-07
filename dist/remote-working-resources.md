@@ -34,6 +34,7 @@
 - Hacker News Jobs (https://news.ycombinator.com/jobs)
 - HasJob (https://hasjob.co/?l=anywhere)
 - HigherEd Jobs (https://www.higheredjobs.com/search/remote.cfm)
+- Himalayas (https://himalayas.app/jobs)
 - Hubstaff (https://talent.hubstaff.com/search/jobs)
 - Idealist (https://www.idealist.org/en/?radius=160000&amp;sort=relevance&amp;type=ALL)
 - Indeed (http://www.indeed.com/jobs?q=web+development&amp;l=remote)
