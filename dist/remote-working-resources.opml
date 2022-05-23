@@ -21,7 +21,7 @@
 <outline htmlUrl="https://freshremote.work/" title="FreshRemote.work" xmlUrl="https://freshremote.work/feed/" type="rss" text="FreshRemote.work"/>
 <outline htmlUrl="https://functionaljobs.com/" title="Functional Jobs" xmlUrl="https://functionaljobs.com/jobs/?format=rss" type="rss" text="Functional Jobs"/>
 <outline htmlUrl="https://www.golangprojects.com/" title="Golang / Go Jobs" xmlUrl="https://www.golangprojects.com/rss.xml" type="rss" text="Golang / Go Jobs"/>
-<outline htmlUrl="https://golangjob.xyz/jobs/remote-ok" title="Golang Remote Jobs" xmlUrl="https://golangjob.xyz/jobs/remote-ok" type="rss" text="Golang Remote Jobs"/>
+<outline htmlUrl="https://golangjob.xyz/jobs/all/all/remote/en" title="Golang Remote Jobs" xmlUrl="https://golangjob.xyz/jobs/all/all/remote/en" type="rss" text="Golang Remote Jobs"/>
 <outline htmlUrl="https://www.guru.com/d/jobs/" title="Guru" xmlUrl="https://www.guru.com/rss/jobs/" type="rss" text="Guru"/>
 <outline htmlUrl="https://hasjob.co/?l=anywhere" title="HasJob" xmlUrl="https://hasjob.co/feed" type="rss" text="HasJob"/>
 <outline htmlUrl="http://www.indeed.com/jobs?q=web+development&amp;l=remote" title="Indeed" xmlUrl="http://rss.indeed.com/rss" type="rss" text="Indeed"/>
