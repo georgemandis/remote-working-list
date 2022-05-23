@@ -30,7 +30,7 @@ Functional Jobs,https://functionaljobs.com/,https://functionaljobs.com/jobs/?for
 GIIN,https://jobs.thegiin.org/,,Global Impact Investing Network
 Glassdoor,https://www.glassdoor.com/Job/jobs.htm,,No RSS feeds but you can create job alerts with an account
 Golang / Go Jobs,https://www.golangprojects.com/,https://www.golangprojects.com/rss.xml,Jobs for Goland/Go developers
-Golang Remote Jobs,https://golangjob.xyz/jobs/remote-ok,https://golangjob.xyz/jobs/remote-ok,Remote Jobs for Go/Golang Developers
+Golang Remote Jobs,https://golangjob.xyz/jobs/all/all/remote/en,https://golangjob.xyz/jobs/all/all/remote/en,Remote Jobs for Go/Golang Developers
 Guru,https://www.guru.com/d/jobs/,https://www.guru.com/rss/jobs/,
 Hacker News Jobs,https://news.ycombinator.com/jobs,,No RSS feed for jobs but there is an API which would theoretically allow you to build one: https://github.com/HackerNews/API
 HasJob,https://hasjob.co/?l=anywhere,https://hasjob.co/feed,The have an Anywhere option under the location filter. Feed not filterable. Also on Twitter (@hasjob)
