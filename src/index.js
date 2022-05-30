@@ -5,14 +5,14 @@ const file = './remote-working-resources.csv';
 const output = [];
 
 switch (process.argv[2]) {
-  // return OPML file
+  // return OPML file of job sites
   case 'opml':
     fs.readFile(file, (err, fileData) => {
       parse(fileData, {
         columns: true,
         trim: true,
       }, (err, rows) => {
-        // Your CSV data is in an array of arrys passed to this callback as rows.
+        // Your CSV data is in an array of arrays passed to this callback as rows.
         rows.forEach((row) => {
           if (row['Feed URL']) {
             output.push(`<outline htmlUrl="${row.URL}" title="${row.Title}" xmlUrl="${row['Feed URL']}" type="rss" text="${row.Title}"/>`);
@@ -33,20 +33,19 @@ switch (process.argv[2]) {
     });
     break;
 
-  // return list of jobs
+  // return list of job sites
   case 'list':
     fs.readFile(file, (err, fileData) => {
       parse(fileData, {
         columns: true,
         trim: true,
       }, (err, rows) => {
-        // Your CSV data is in an array of arrys passed to this callback as rows
         process.stdout.write(rows.map((row) => `- ${row.Title} (${row.URL})`).join('\n'));
       });
     });
     break;
 
-  // return list of jobs
+  // return HTML output of job sites
   case 'html':
     fs.readFile(file, (err, fileData) => {
       parse(fileData, {
@@ -54,13 +53,12 @@ switch (process.argv[2]) {
         trim: true,
       }, (err, rows) => {
         const listItems = rows.map((row) => `<li><a href='${row.URL}'>${row.Title}</a></li>`).join('\n');
-        // Your CSV data is in an array of arrys passed to this callback as rows
         process.stdout.write(`<h1>Remote Job List</h1><ol>${listItems}</ol>`);
       });
     });
     break;
 
   default:
-    process.stdout.write('Eh.');
+    process.stdout.write('Valid optins: html, opml, list');
     break;
 }
