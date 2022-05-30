@@ -60,6 +60,8 @@
 - Reddit (/r/remotephp) (https://www.reddit.com/r/remotephp/)
 - Reddit (/r/remotepython) (https://www.reddit.com/r/remotepython/)
 - Reddit (/r/remotejobs) (https://www.reddit.com/r/RemoteJobs/)
+- Remote Backend Jobs (https://remotebackendjobs.com)
+- Remote Frontend Jobs (https://remotefrontendjobs.com)
 - Remote OK (https://remoteok.io/remote-companies)
 - Remote.co (https://remote.co/remote-jobs/)
 - Remotive (https://remotive.io/find-a-job)
