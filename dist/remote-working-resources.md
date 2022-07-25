@@ -13,6 +13,7 @@
 - Cryptocurrency Jobs (https://cryptocurrencyjobs.co)
 - CyberCoders (https://www.cybercoders.com/browse-jobs/)
 - DailyRemote (https://dailyremote.com)
+- DesignRemotely (https://designremotely.co/)
 - Dice (https://www.dice.com/jobs)
 - Diversify Tech (https://www.diversifytech.co/job-board/)
 - Dribbble (https://dribbble.com/jobs?anywhere=true&amp;location=Anywhere)
