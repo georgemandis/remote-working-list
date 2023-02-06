@@ -24,6 +24,7 @@
 <outline htmlUrl="https://golangjob.xyz/remote/jobs" title="Golang Remote Jobs" xmlUrl="https://golangjob.xyz/remote/jobs" type="rss" text="Golang Remote Jobs"/>
 <outline htmlUrl="https://www.guru.com/d/jobs/" title="Guru" xmlUrl="https://www.guru.com/rss/jobs/" type="rss" text="Guru"/>
 <outline htmlUrl="https://hasjob.co/?l=anywhere" title="HasJob" xmlUrl="https://hasjob.co/feed" type="rss" text="HasJob"/>
+<outline htmlUrl="https://iloveremote.io/" title="I ❤ remote.io" xmlUrl="https://iloveremote.io/rss/jobs/city/remote.rss" type="rss" text="I ❤ remote.io"/>
 <outline htmlUrl="http://www.indeed.com/jobs?q=web+development&amp;l=remote" title="Indeed" xmlUrl="http://rss.indeed.com/rss" type="rss" text="Indeed"/>
 <outline htmlUrl="https://javajobs.pro/remote/jobs" title="Java Remote Jobs" xmlUrl="Remote Java Jobs" type="rss" text="Java Remote Jobs"/>
 <outline htmlUrl="https://jobhunt.ai/" title="Jobhunt.ai" xmlUrl="https://jobhunt.ai/rss.xml" type="rss" text="Jobhunt.ai"/>
