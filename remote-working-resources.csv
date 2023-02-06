@@ -31,7 +31,7 @@ Functional Jobs,https://functionaljobs.com/,https://functionaljobs.com/jobs/?for
 GIIN,https://jobs.thegiin.org/,,Global Impact Investing Network
 Glassdoor,https://www.glassdoor.com/Job/jobs.htm,,No RSS feeds but you can create job alerts with an account
 Golang / Go Jobs,https://www.golangprojects.com/,https://www.golangprojects.com/rss.xml,Jobs for Goland/Go developers
-Golang Remote Jobs,https://golangjob.xyz/jobs/remote-ok,https://golangjob.xyz/jobs/remote-ok,Remote Jobs for Go/Golang Developers
+Golang Remote Jobs,https://golangjob.xyz/remote/jobs,https://golangjob.xyz/remote/jobs,Remote Jobs for Go/Golang Developers
 Guru,https://www.guru.com/d/jobs/,https://www.guru.com/rss/jobs/,
 Hacker News Jobs,https://news.ycombinator.com/jobs,,No RSS feed for jobs but there is an API which would theoretically allow you to build one: https://github.com/HackerNews/API
 HasJob,https://hasjob.co/?l=anywhere,https://hasjob.co/feed,The have an Anywhere option under the location filter. Feed not filterable. Also on Twitter (@hasjob)
@@ -40,6 +40,7 @@ Himalayas,https://himalayas.app/jobs,,Dedicated remote job board
 Hubstaff,https://talent.hubstaff.com/search/jobs,,
 Idealist,https://www.idealist.org/en/?radius=160000&amp;sort=relevance&amp;type=ALL,,No RSS feed but there is an email subscription available
 Indeed,http://www.indeed.com/jobs?q=web+development&amp;l=remote,http://rss.indeed.com/rss,You can filter more specifically by passing the q parameter like this: http://rss.indeed.com/rss?q=web+development
+Java Remote Jobs,https://javajobs.pro/remote/jobs,Remote Java Jobs
 Jobhunt.ai,https://jobhunt.ai/,https://jobhunt.ai/rss.xml,Machine learning and data science jobs with a remote section
 Jobspresso,https://jobspresso.co,https://jobspresso.co/feed/?post_type=job_listing,
 JustRemote,https://justremote.co/,,No RSS feed but they do have a mailing list
@@ -69,6 +70,7 @@ Remote.co,https://remote.co/remote-jobs/,https://remote.co/feed/?post_type=job_l
 Remotive,https://remotive.io/find-a-job,,
 Remotesome,https://remotesome.com,https://www.remotesome.com/talent-signup,High rate of employment for vetted talent + public job postings coming 3/21
 Ruby Now,https://jobs.rubynow.com,,No RSS feed
+Rust Remote Jobs,https://rustjob.xyz/remote/jobs,Remote Rust Jobs
 SkipeTheDrive,https://www.skipthedrive.com/,,No RSS feed but there is an email subscription available
 Skoll Community Jobs Board,https://skoll.org/community/jobs/,https://skoll.org/?feed=job_feed&job_types=other%2Csase%2Cskoll&search_location=remote&job_categories&search_keywords,
 Smashing Jobs (Freelance),https://www.smashingmagazine.com/jobs/#jobs,https://www.smashingmagazine.com/jobs/feed/,
