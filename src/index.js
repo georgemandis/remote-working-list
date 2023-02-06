@@ -1,5 +1,5 @@
 const fs = require('fs');
-const parse = require('csv-parse');
+const { parse } = require('csv-parse');
 
 const file = './remote-working-resources.csv';
 const output = [];
