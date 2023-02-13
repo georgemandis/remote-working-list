@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build:opml; npm run build:html; npm run build:markdown",
     "build:opml": "node src/index.js opml > dist/remote-working-resources.opml",
     "build:html": "node src/index.js html  > dist/remote-working-resources.html",
     "build:markdown": "node src/index.js list  > dist/remote-working-resources.md"
