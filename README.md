@@ -22,6 +22,10 @@ There are scripts you can run to generate the OPML, HTML and Markdown files from
 `npm run build:html`
 `npm run build:markdown`
 
+Or create all of them by running:
+
+`npm run build`
+
 The OPML script is smart enough to exclude sites without an RSS feed. The other scripts generate a complete list.
 
 ## About 
