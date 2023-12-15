@@ -51,6 +51,7 @@
 - NODESK (https://nodesk.co/remote-jobs/)
 - NTEN (https://www.nten.org/jobs/)
 - No Fluff Jobs (https://nofluffjobs.com/?criteria=remote)
+- OkJob (https://okjob.io/remote-4-day-work-week/)
 - Outsourcely (https://www.outsourcely.com/remote-workers)
 - Pangian (https://pangian.com/job-travel-remote/)
 - PowerToFly (https://powertofly.com/jobs/)
