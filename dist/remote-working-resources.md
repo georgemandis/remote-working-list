@@ -3,6 +3,7 @@
 - Angular Jobs (https://angularjobs.com/search/?query=remote&amp;location=us)
 - Authentic Jobs (https://authenticjobs.com/)
 - Behance (https://www.behance.net/joblist)
+- Bing Pros (https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us)
 - Career Vault (https://careervault.io/)
 - CareerBuilder (https://www.careerbuilder.com/jobs-remote-web-developer)
 - ClojureJobboard.com (https://ClojureJobboard.com/)
