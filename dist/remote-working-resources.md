@@ -95,3 +95,4 @@
 - Working Not Working (https://workingnotworking.com/unjobboard)
 - ZipRecruiter (https://www.ziprecruiter.com/candidate/search?search=Remote+Work&location=)
 - freelancermap (https://www.freelancermap.com/it-projects.html)
+- AI Jobster (https://aijobster.work/remote_jobs)
