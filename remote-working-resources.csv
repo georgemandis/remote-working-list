@@ -49,6 +49,7 @@ Landing.jobs,https://landing.jobs/jobs?remote=true,https://landing.jobs/feed?rem
 Lara Jobs,https://larajobs.com/?location=&amp;remote=1,https://larajobs.com/feed,
 LinkedIn,https://www.linkedin.com/jobs/,,No RSS feeds but you can create job alerts with an account.You must provide a search term to see job listings. Most (all?) jobs require a LinkedIn account to apply
 Mashable Jobs,http://jobs.mashable.com/jobs/search/results,http://jobs.mashable.com/jobs/search/results?format=rss,You can filter more specifically by passing parameters but it's easiest to filter the results to your liking on the page and copy the update RSS feed link
+Moizlla Jobs,https://www.mozilla.org/en-US/careers/listings/,https://www.mozilla.org/en-US/careers/feed/,
 NODESK,https://nodesk.co/remote-jobs/,https://nodesk.co/remote-jobs/index.xml,On Twitter (@nodeskco)
 NTEN,https://www.nten.org/jobs/,https://www.nten.org/feed/?post_type=job,Nonprofit Technology Network
 No Fluff Jobs,https://nofluffjobs.com/?criteria=remote,,
