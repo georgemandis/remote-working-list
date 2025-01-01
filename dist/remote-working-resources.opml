@@ -14,9 +14,11 @@
 <outline htmlUrl="https://cryptojobslist.com/remote" title="Crypto Jobs List" xmlUrl="https://cryptojobslist.com/jobs.rss?jobLocation=Remote" type="rss" text="Crypto Jobs List"/>
 <outline htmlUrl="https://dribbble.com/jobs?anywhere=true&amp;location=Anywhere" title="Dribbble" xmlUrl="https://dribbble.com/jobs.rss?anywhere=true&amp;location=Anywhere" type="rss" text="Dribbble"/>
 <outline htmlUrl="https://jobs.drupal.org/" title="Drupal Jobs" xmlUrl="https://jobs.drupal.org/filtered-jobs/%25/%25/%25/%25/%25/feed" type="rss" text="Drupal Jobs"/>
-<outline htmlUrl="https://www.fossjobs.net/" title="FOSS Jobs" xmlUrl="https://www.fossjobs.net/rss/all/" type="rss" text="FOSS Jobs"/>
 <outline htmlUrl="https://findbacon.com/jobs/remote" title="Find Bacon" xmlUrl="https://findbacon.com/rss/main" type="rss" text="Find Bacon"/>
+<outline htmlUrl="https://findjobit.com/jobs" title="Findjobit" xmlUrl="https://findjobit.com/jobs/feed" type="rss" text="Findjobit"/>
+<outline htmlUrl="https://www.fossjobs.net/" title="FOSS Jobs" xmlUrl="https://www.fossjobs.net/rss/all/" type="rss" text="FOSS Jobs"/>
 <outline htmlUrl="https://www.freelancer.com/jobs/1/" title="Freelancer" xmlUrl="https://www.freelancer.com/rss.xml" type="rss" text="Freelancer"/>
+<outline htmlUrl="https://www.freelancermap.com/it-projects.html" title="freelancermap" xmlUrl="https://www.freelancermap.com/feeds/projects/int-international.xml" type="rss" text="freelancermap"/>
 <outline htmlUrl="https://freshremote.work/" title="FreshRemote.work" xmlUrl="https://freshremote.work/feed/" type="rss" text="FreshRemote.work"/>
 <outline htmlUrl="https://functionaljobs.com/" title="Functional Jobs" xmlUrl="https://functionaljobs.com/jobs/?format=rss" type="rss" text="Functional Jobs"/>
 <outline htmlUrl="https://www.golangprojects.com/" title="Golang / Go Jobs" xmlUrl="https://www.golangprojects.com/rss.xml" type="rss" text="Golang / Go Jobs"/>
@@ -52,11 +54,10 @@
 <outline htmlUrl="https://stackoverflow.com/jobs/remote-developer-jobs" title="Stack Overflow (remote)" xmlUrl="https://stackoverflow.com/jobs/feed?r=True" type="rss" text="Stack Overflow (remote)"/>
 <outline htmlUrl="https://www.virtualvocations.com/jobs" title="Virtual Vocations" xmlUrl="https://www.virtualvocations.com/jobs/rss" type="rss" text="Virtual Vocations"/>
 <outline htmlUrl="https://vuejobs.com/remote-vuejs-jobs" title="Vue Jobs" xmlUrl="https://vuejobs.com/feed" type="rss" text="Vue Jobs"/>
-<outline htmlUrl="http://www.wphired.com/" title="WP Hired" xmlUrl="http://www.wphired.com/jobs/feed/" type="rss" text="WP Hired"/>
 <outline htmlUrl="https://weworkremotely.com/" title="We Work Remotely" xmlUrl="https://weworkremotely.com/remote-jobs.rss" type="rss" text="We Work Remotely"/>
 <outline htmlUrl="https://jobs.wordpress.net/" title="WordPress Jobs" xmlUrl="https://jobs.wordpress.net/feed/" type="rss" text="WordPress Jobs"/>
 <outline htmlUrl="https://www.workingnomads.co/jobs" title="Working Nomads" xmlUrl="https://www.workingnomads.co/api/exposed_jobs/" type="rss" text="Working Nomads"/>
-<outline htmlUrl="https://www.freelancermap.com/it-projects.html" title="freelancermap" xmlUrl="https://www.freelancermap.com/feeds/projects/int-international.xml" type="rss" text="freelancermap"/>
+<outline htmlUrl="http://www.wphired.com/" title="WP Hired" xmlUrl="http://www.wphired.com/jobs/feed/" type="rss" text="WP Hired"/>
                         </outline>
                       </body>
                      </opml>
