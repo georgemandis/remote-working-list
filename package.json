@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/georgemandis/remote-working-list#readme",
   "dependencies": {
-    "csv-parse": "^5.3.4"
+    "csv-parse": "^7.0.2"
   },
   "devDependencies": {
     "eslint": "^8.7.0",
