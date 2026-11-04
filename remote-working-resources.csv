@@ -9,6 +9,7 @@ Career Vault,https://careervault.io/,,
 CareerBuilder,https://www.careerbuilder.com/jobs-remote-web-developer,,
 ClojureJobboard.com,https://ClojureJobboard.com/,https://clojurejobboard.com/rss.xml,Clojure jobs only with a remote section
 Coroflot,https://www.coroflot.com/design-jobs/remote,http://feeds.feedburner.com/coroflot/AllJobs,Presented as Design Jobs but there are development/technical positions within this category
+Covesight,https://covesight.com/remote-jobs/,https://covesight.com/feed.xml,Feed lists only jobs verified open worldwide; the site also filters by country timezone and language
 Craigs List,https://craigslist.org,,Exact URL will depend on city/location you want to search within and should be formatted like: https://[city].craigslist.org/search/web?format=rss
 Crunchboard Job Board,https://www.crunchboard.com/,https://www.crunchboard.com/jobs.rss,
 Crypto Jobs List,https://cryptojobslist.com/remote,https://cryptojobslist.com/jobs.rss?jobLocation=Remote,

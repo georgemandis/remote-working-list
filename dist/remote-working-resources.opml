@@ -10,6 +10,7 @@
 <outline htmlUrl="https://authenticjobs.com/" title="Authentic Jobs" xmlUrl="https://authenticjobs.com/?feed=job_feed&job_types=freelance%2Cfull-time%2Cinternship%2Cpart-time&search_location=remote&job_categories&search_keywords" type="rss" text="Authentic Jobs"/>
 <outline htmlUrl="https://ClojureJobboard.com/" title="ClojureJobboard.com" xmlUrl="https://clojurejobboard.com/rss.xml" type="rss" text="ClojureJobboard.com"/>
 <outline htmlUrl="https://www.coroflot.com/design-jobs/remote" title="Coroflot" xmlUrl="http://feeds.feedburner.com/coroflot/AllJobs" type="rss" text="Coroflot"/>
+<outline htmlUrl="https://covesight.com/remote-jobs/" title="Covesight" xmlUrl="https://covesight.com/feed.xml" type="rss" text="Covesight"/>
 <outline htmlUrl="https://www.crunchboard.com/" title="Crunchboard Job Board" xmlUrl="https://www.crunchboard.com/jobs.rss" type="rss" text="Crunchboard Job Board"/>
 <outline htmlUrl="https://cryptojobslist.com/remote" title="Crypto Jobs List" xmlUrl="https://cryptojobslist.com/jobs.rss?jobLocation=Remote" type="rss" text="Crypto Jobs List"/>
 <outline htmlUrl="https://dribbble.com/jobs?anywhere=true&amp;location=Anywhere" title="Dribbble" xmlUrl="https://dribbble.com/jobs.rss?anywhere=true&amp;location=Anywhere" type="rss" text="Dribbble"/>

@@ -8,6 +8,7 @@
 - CareerBuilder (https://www.careerbuilder.com/jobs-remote-web-developer)
 - ClojureJobboard.com (https://ClojureJobboard.com/)
 - Coroflot (https://www.coroflot.com/design-jobs/remote)
+- Covesight (https://covesight.com/remote-jobs/)
 - Craigs List (https://craigslist.org)
 - Crunchboard Job Board (https://www.crunchboard.com/)
 - Crypto Jobs List (https://cryptojobslist.com/remote)
